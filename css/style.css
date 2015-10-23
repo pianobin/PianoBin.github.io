@@ -1,8 +1,15 @@
 
 
-@font-face
-{
+@font-face {
 	font-family: QuickSand;
-	src: url{'/fonts/QuickSand/Quicksand-Regular'} format('opentype');
-	
+	src: url{'/fonts/QuickSand/Quicksand-Regular.otf'} format('opentype');	
+}
+
+@font-face {
+	font-family: GoodDog;
+	src: url{'/fonts/GoodDog/GoodDog.otf'} format('opentype');
+}
+
+.List {
+	font-family: GoodDog;
 }
