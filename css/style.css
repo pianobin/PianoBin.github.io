@@ -17,3 +17,13 @@ p {
 	padding-top:1000px;
 	
 }
+
+.Home {
+	display: block;
+	margin: 0 auto;
+	
+}
+
+.Video {
+	background-color: LawnGreen;
+}

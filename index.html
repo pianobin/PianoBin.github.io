@@ -9,17 +9,23 @@
 		
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 		<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+				
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 	</head>
 	<body>
 		<script src="http://code.jquery.com/jquery.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-	<div class="container">
+		<script src="js/scroll.js"></script>
+		
+	<!--Container-->
+	<div class="container-fluid">
 		
 		<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 			<div class="navbar-header">
-				<a class="navbar-brand" href="#">Test</a>
+				<a class="navbar-brand" href="#jumbo">I'm a menu item <span class="glyphicon glyphicon-list-alt"></span></a>
+				<a class="navbar-brand" href="#vid">Scroll to the video <span class="glyphicon glyphicon-film"></span></a>
 			</div>
 		</nav>
+		<div> <a name="jumbo"></a> </div>
 		<div class="jumbotron">
 				<h1>Welcome to my website!</h1>	
 
@@ -32,15 +38,16 @@
 			<p> Here you will find links to all my projects. </p>
 			
 <ul>
-				<li> <a href="/CHXC/times.html">CHXC Project</a></li>
-				<li> <a href="/Math/deriv.html">Random Math Problem Generator</a></li>
-				<li> <a href="https://github.com/PianoDefense"> My GitHub</a></li>
+				<li> <a href="/CHXC/times.html" class="btn btn-info" role="button" >CHXC Project</a></li>
+				<li> <a href="/Math/deriv.html" class="btn btn-warning" role="button">Random Math Problem Generator</a></li>
+				<li> <a href="https://github.com/PianoDefense" class="btn btn-success" role="button"> My GitHub</a></li>
 			</ul>
 		</div>
-
-		<iframe width="420" height="315" src="https://www.youtube.com/embed/7bnX-6sJZBw" frameborder="0" allowfullscreen></iframe>
 		
-		<div class="Lorem ipsum">
+		<div> <a name="vid"></a> </div>
+		<iframe class="Home" width="420" height="315" src="https://www.youtube.com/embed/7bnX-6sJZBw" frameborder="0" allowfullscreen></iframe>
+		
+		<div class="Lorem-ipsum">
 			<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
 			sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 			Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
