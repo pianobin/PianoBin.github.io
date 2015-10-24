@@ -14,12 +14,17 @@ p {
 }
 
 .Lorem-ipsum {
-	padding-top:1000px;
+	padding-top:500px;
 	
 }
 
 .Home {
 	display: block;
 	margin: 0 auto;
-	padding-bottom:100px;
+	padding-bottom:0px;
+	padding-top:50px;
+}
+
+.bar {
+	
 }
