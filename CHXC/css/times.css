@@ -1,0 +1,25 @@
+body {
+  padding-top: 60px;
+}
+@media (max-width: 979px) {
+  body {
+    padding-top: 0px;
+  }
+}
+
+.page {
+	height: 100%;
+	width:100%;
+	background-image: url("images/cropped-single-tiger-in-spring2.jpg");
+	background-attachment: scroll;
+	background-position: center-top;
+	background-repeat: repeat-x;
+}
+
+.page1 {
+	background:linear-gradient(#FF4E50 10%, #F9D423 90%);
+}
+
+.page2 {
+	background:linear-gradient(#FF4E50 10%, #F9D423 90%);
+}
