@@ -1,5 +1,5 @@
 body {
-  padding-top: 60px;
+  padding-top: 50px;
   font-family: 'Days One', sans-serif;
 }
 @media (max-width: 979px) {
@@ -11,6 +11,12 @@ body {
 .page {
 	height: 100%;
 	width:100%;
+}
+
+.backtotop {
+	position: absolute;
+	top: 90%;
+	left: 50%;
 }
 
 .page1 {
@@ -37,13 +43,4 @@ body {
 
 .page2 {
 	background:linear-gradient(#8e9eab 10%, #eef2f3 90%);
-}
-
-.about1{
-	position: absolute;
-	top: 120%;
-}
-
-.about2 {
-	top: 120%;
 }
