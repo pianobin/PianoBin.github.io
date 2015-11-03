@@ -13,7 +13,8 @@ body {
 	width:100%;
 }
 
-.backtotop {
+span.glyphicon-triangle-top {
+	font-size: 2.5em;
 	position: absolute;
 	top: 90%;
 	left: 50%;
