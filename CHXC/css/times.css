@@ -1,5 +1,6 @@
 body {
   padding-top: 60px;
+  font-family: 'Days One', sans-serif;
 }
 @media (max-width: 979px) {
   body {
@@ -10,16 +11,39 @@ body {
 .page {
 	height: 100%;
 	width:100%;
-	background-image: url("images/cropped-single-tiger-in-spring2.jpg");
-	background-attachment: scroll;
-	background-position: center-top;
-	background-repeat: repeat-x;
 }
 
 .page1 {
 	background:linear-gradient(#FF4E50 10%, #F9D423 90%);
 }
 
+.btnmeet {
+	position: absolute;
+	top: 75%;
+	left: 25%;
+}
+
+.btnwork {
+	position:absolute;
+	top: 75%;
+	left: 50%;
+}
+
+.btncourse {
+	position: absolute;
+	top: 75%;
+	left: 75%;
+}
+
 .page2 {
-	background:linear-gradient(#FF4E50 10%, #F9D423 90%);
+	background:linear-gradient(#8e9eab 10%, #eef2f3 90%);
+}
+
+.about1{
+	position: absolute;
+	top: 120%;
+}
+
+.about2 {
+	top: 120%;
 }
