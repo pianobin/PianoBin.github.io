@@ -45,3 +45,12 @@ span.glyphicon-triangle-top {
 .page2 {
 	background:linear-gradient(#8e9eab 10%, #eef2f3 90%);
 }
+
+.page6 {
+    height:20%;
+}
+
+.container {
+    border-style: inset;
+    margin-top: 10%;
+}
