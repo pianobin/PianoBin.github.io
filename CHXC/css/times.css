@@ -1,4 +1,5 @@
 body {
+    background: url(../images/9d962609.png) repeat;
   padding-top: 50px;
   font-family: 'Days One', sans-serif;
 }
@@ -8,49 +9,65 @@ body {
   }
 }
 
-.page {
-	height: 100%;
+.page1 {
+	height:100vh;
 	width:100%;
 }
 
-span.glyphicon-triangle-top {
-	font-size: 2.5em;
-	position: absolute;
-	top: 90%;
-	left: 50%;
+.page {
+    margin-bottom:10%;
 }
 
-.page1 {
-	background:linear-gradient(#FF4E50 10%, #F9D423 90%);
+.Title {
+    background-color:yellow;
+    border-style:outset;
+    border-width:thick;
+}
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    display:block;
+    height: auto;
+    max-width: 100%;
+    line-height: 1;
+    width: 100%;
+}
+
+.scrolltop {
+    position:fixed;
+    top: 90%;
+    left: 95%;
+    display: none;
+}
+
+.back1 {
+    background-color: grey;
+    height: 50%;
+    width: 90%;
+    left: 5%;
 }
 
 .btnmeet {
 	position: absolute;
-	top: 75%;
-	left: 25%;
+	top: 80%;
+	left: 20%;
 }
 
 .btnwork {
 	position:absolute;
-	top: 75%;
-	left: 50%;
+	top: 80%;
+	left: 45%;
 }
 
 .btncourse {
 	position: absolute;
-	top: 75%;
-	left: 75%;
+	top: 80%;
+	left: 70%;
 }
 
-.page2 {
-	background:linear-gradient(#8e9eab 10%, #eef2f3 90%);
-}
-
-.page6 {
-    height:20%;
-}
-
-.container {
-    border-style: inset;
-    margin-top: 10%;
+.yellowC {
+    background-color:white;
+    border-radius: 2%;
+    border-style: groove;
+    border-color:yellow;
+    border-width: thick;
 }
