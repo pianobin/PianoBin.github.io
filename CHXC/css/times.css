@@ -1,73 +1,156 @@
 body {
     background: url(../images/9d962609.png) repeat;
-  padding-top: 50px;
-  font-family: 'Days One', sans-serif;
-}
-@media (max-width: 979px) {
-  body {
-    padding-top: 0px;
-  }
+    padding-bottom: 80px;
+    cursor: url(../images/tiger1.png), default;
 }
 
-.page1 {
-	height:100vh;
-	width:100%;
+* {
+    font-family: 'Days One', sans-serif;
 }
 
-.page {
-    margin-bottom:10%;
-}
-
-.Title {
-    background-color:yellow;
-    border-style:outset;
-    border-width:thick;
-}
-
-.carousel-inner>.item>img, .carousel-inner>.item>a>img {
-    display:block;
-    height: auto;
-    max-width: 100%;
-    line-height: 1;
-    width: 100%;
-}
-
-.scrolltop {
-    position:fixed;
-    top: 90%;
-    left: 95%;
-    display: none;
-}
-
-.back1 {
-    background-color: grey;
-    height: 50%;
-    width: 90%;
-    left: 5%;
-}
-
-.btnmeet {
-	position: absolute;
-	top: 80%;
-	left: 20%;
-}
-
-.btnwork {
-	position:absolute;
-	top: 80%;
-	left: 45%;
-}
-
-.btncourse {
-	position: absolute;
-	top: 80%;
-	left: 70%;
-}
-
-.yellowC {
-    background-color:white;
-    border-radius: 2%;
-    border-style: groove;
-    border-color:yellow;
+.contain {
+    background: white;
+    margin: 20px 20px 80px 20px;
+    padding:15px;
+    border-radius: 5%;
+    border-style: solid;
+    border-color: yellow;
     border-width: thick;
 }
+
+footer {
+    background-color: #C4D8E2;
+    position: fixed;
+    
+    padding-left: 1.4em;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    height: 40px;
+}
+
+a:link, a:visited {
+    text-decoration:none;
+    color: #568203;
+}
+a:hover {
+    background-color: #FAEBD7;
+    cursor: url(../images/tiger2hover.png), default;
+}
+
+h1 {
+    text-shadow: 4px 4px 5px gray;
+}
+
+h3 {
+    text-shadow: 2px 2px 3px gray;
+}
+
+li {
+  list-style: none; /*remove reg bullet style*/
+}
+
+li:before {
+  content: ">>"; /*custom bullet pt*/
+  padding-right: 10px; 
+}
+
+
+
+
+nav { /*CSS-Tricks*/
+	width: 100%;
+	height: 100px;
+	margin: auto;
+	text-align: center;
+}
+.top-menu li {
+	display: inline-block; /*same line*/
+	/*text-align: center;*/
+	position: relative;
+	-webkit-transition: all 0.5s ease; 
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+}
+.top-menu li:hover {
+	margin: 30px 20px; 
+}
+.top-menu li:active {
+	margin: 30px 33px; 
+}
+.top-menu li a  {
+	width: 100px;
+	height: 100px;
+	z-index: 9999;
+	position: absolute;
+	top: 35px;
+	font-weight: bold;
+	display: block;
+	text-decoration: none;
+	font-size: 22px;
+	color: white;
+	text-shadow: 0px 1px 1px rgba(0,0,0,0.4), 0px 4px 6px rgba(0,0,0,0.1), 0px 9px 11px rgba(0,0,0,0.1);
+	-webkit-transition: all 0.1s linear; 
+	-moz-transition: all 0.1s linear;
+	-o-transition: all 0.1s linear;
+}
+.top-menu li:active a {
+	font-size: 26px;
+	top: 30px;
+	text-shadow: none;
+}
+.top-menu li div.menu-item {	
+	width: 100px;
+	height: 100px;
+	display: block;
+	-webkit-transition: all 0.2s ease; 
+	-moz-transition: all 0.2s ease;
+	-o-transition: all 0.2s ease;
+	-webkit-border-top-left-radius: 100px; 
+	-webkit-border-bottom-right-radius: 100px; 
+	-moz-border-radius-topleft: 100px; 
+	-moz-border-radius-bottomright: 100px; 
+	border-top-left-radius: 100px; 
+	border-bottom-right-radius: 100px;
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+}
+.top-menu li:hover div.menu-item{ 
+	-webkit-border-top-left-radius: 80px; 
+	-webkit-border-bottom-right-radius: 80px; 
+	-moz-border-radius-topleft: 80px; 
+	-moz-border-radius-bottomright: 80px; 
+	border-top-left-radius: 80px; 
+	border-bottom-right-radius: 80px; 
+    -webkit-transform: rotate(225deg);
+	-moz-transform: rotate(225deg);
+	-o-transform: rotate(225deg);
+}
+.top-menu li:active div.menu-item{ 
+	-webkit-border-top-left-radius: 50px; 
+	-webkit-border-bottom-right-radius: 50px; 
+	-moz-border-radius-topleft: 50px; 
+	-moz-border-radius-bottomright: 50px; 
+	border-top-left-radius: 50px; 
+	border-bottom-right-radius: 50px; 
+
+}
+#home { 
+    background: #008000; 
+}
+#coaches { 
+    background: #78AB46; 
+}
+#records { 
+    background: #66CD00; 
+}
+#stats { 
+    background: #7CFC00; 
+}
+#calendar { 
+    background: #6EFF70; 
+}
+
+
+

@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -6,9 +5,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
     <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-    
-	<!--
-	<style type="text/css">
+    <!-- <style type="text/css">
         .filterunused {
             display: none;
         }
@@ -24,264 +21,156 @@
             font-size: 80%;
             font-family: arial;
         }
-    </style>
-	-->
-	
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
-	<link href="css/times.css" rel="stylesheet" type="text/css">
-	<link href='https://fonts.googleapis.com/css?family=Days+One' rel='stylesheet' type='text/css'>
+    </style> -->
+    
+    <link href="css/times.css" rel="stylesheet" type="text/css"> <!-- NEW -->
+    <link href='https://fonts.googleapis.com/css?family=Days+One' rel='stylesheet' type='text/css'> <!-- NEW -->
 </head>
 
 <body>
-
-    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Main Nav~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
     
-	<nav class="navbar-wrapper navbar-default navbar-fixed-top">
-		<div class="container-fluid">
-            <div class="navbar-header">
-                <a href="#" class="navbar-brand">
-                    CHHS XC and Track
-                </a>
-                
-                <button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-            </div>
-            <div class="collapse navbar-collapse navHeaderCollapse">
-                <ul class="nav navbar-nav navbar-right">
-                    <li><a href="#">Home</a></li>
-					<li><a href="#">Coaches</a></li>
-					<li><a href="#">Records</a></li>
-					<li class="active"><a href="#">Meet Reports</a></li>
-                </ul>
-            </div>
-        </div>
-	</nav>
-	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Mini Nav~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-    
-    <nav class="scrolltop">
-        <a href="#top" class="btn btn-warning" role="button"><span class="glyphicon glyphicon-menu-up"></span></a>
+    <nav>
+        <ul class="top-menu">
+            <li><a href="http://www.chapelhillxc.com/">Home</a><div class="menu-item" id="home"></div></li>
+            <li><a href="http://www.chapelhillxc.com/coaches/">Coaches</a><div class="menu-item" id="coaches"></div></li>
+            <li><a href="http://www.chapelhillxc.com/records/">Records</a><div class="menu-item" id="records"></div></li>
+            <li><a href="http://www.chapelhillxc.com/times/">Stats</a><div class="menu-item" id="stats"></div></li>
+            <li><a href="http://www.chapelhillxc.com/events/">Calendar</a><div class="menu-item" id="calendar"></div></li>
+          </ul>
     </nav>
-     
-    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~PAGE1~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-    <section class="page page1" id="main">
-		<div class="container-fluid"> 
-            <div class="container Title">
-                <a name="top"></a>
-                <h1>CHHS XC Performances</h1> 
-            </div>
-                <div id="myCarousel" class="carousel slide">
-                    <ol class="carousel-indicators">
-                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                        <li data-target="#myCarousel" data-slide-to="1"></li>
-                        <li data-target="#myCarousel" data-slide-to="2"></li>
-                    </ol>
-                    
-                    <div class="carousel-inner">
-                        <div class="item active">
-                            <div class="thumbnail">
-                                 <img src="images/car1.jpg" class="img-responsive">
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="thumbnail">
-                                <img src="images/car2.jpg" class="img-responsive">
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="thumbnail">
-                                <img src="images/car3.jpg" class="img-responsive">
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <a class="carousel-control left" href="#myCarousel" data-slide="prev">
-                        <span class="icon-prev"></span>
-                    </a>
-                    
-                    <a class="carousel-control right" href="#myCarousel" data-slide="next">
-                        <span class="icon-next"></span>
-                    </a>
-                </div>
-			
-			
-            <a href="#meet" class="btn btn-default btnmeet" role="button">Meet Reports</a>
-            <a href="#work" class="btn btn-default btnwork" role="button">Workout Reports</a>
-            <a href="#course" class="btn btn-default btncourse" role="button">Course Reports</a>
-        </div>
-	</section>
-	
-    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~PAGE2~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-	
-	<section class="page page2" id="about">
-		<div class="container yellowC">
-			<div class="row">
-				<div class="col-xs-12">
-					<h1>About:</h1>
-					<h2>~~~~~~~~~~</h2>
-                    <a name="about"></a>
-					<div class="row">
-						<div class="col-xs-6">
-							<p>This site shows statistics and performances for Chapel Hill High School Cross Country. Over time we will add more and more historical performances.</p>
-							<p>Can't you just get this data from Milesplit? Some of it you certainly can. Here's how it's different:</p>
-							<ul>
-								<li>We include 1 mile and 2 mile splits when we can capture them so we can calculate negative splits.</li>
-								<li>Over time we will include performances from major workouts that we do each year (mini-michigan, mile time trials, Watauga Road, etc).</li>
-								<li>No Milesplit subscription is required, so CHHS parents can view kids' performances for free.</li>
-								<li>All time CHHS performance lists by race, by course, and by workout.</li>
-							</ul>
-							<p><b>NOTE: Data is up to date for current team members.  There is a good deal of historical data from older teams but it is in no way complete.</b></p>
-						</div>
-						
-						<div class="col-xs-6">
-							<ul>
-								<li>Personal Record Report: 
-                                    <a href="prs.php?boygirl=boy">Boys</a>, 
-                                    <a href="prs.php?boygirl=girl">Girls</a>
-								</li>
-								<li>
-                                    <a href="list.php?on_current_team=on">Current Team Performances (searchable by name, year, etc)</a>
-								</li>
-								<li><a href="list.php">All Time CHHS Performances (searchable)</a>
-								</li>
-							</ul>
-						</div>					
-					</div>
-				</div>
-			</div>
-		</div>
-        <a name="meet"></a>
-	</section>
 
     
-    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~PAGE3~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-	<section class="page page3" id="meets">
-        <div class="container yellowC">
-			<h3>Meet Reports</h3>
-			<ul>
-				<li>2015-10-21 <a href="meetdetails.php?meet_id=6">Big 8 3A Conference</a>
-				</li>
-				<li>2015-10-13 <a href="meetdetails.php?meet_id=15">Home Meet vs. Northwood</a>
-				</li>
-				<li>2015-10-10 <a href="meetdetails.php?meet_id=14">NCRunners Invite</a>
-				</li>
-				<li>2015-09-26 <a href="meetdetails.php?meet_id=5">Greensboro</a>
-				</li>
-				<li>2015-09-22 <a href="meetdetails.php?meet_id=9">Home Meet vs. Orange, SD</a>
-				</li>
-				<li>2015-09-19 <a href="meetdetails.php?meet_id=3">Adidas XC Challenge</a>
-				</li>
-				<li>2015-09-15 <a href="meetdetails.php?meet_id=10">Meet at Cedar Ridge</a>
-				</li>
-				<li>2015-09-12 <a href="meetdetails.php?meet_id=2">Durham Academy</a>
-				</li>
-				<li>2015-09-05 <a href="meetdetails.php?meet_id=1">Jungle Run</a>
-				</li>
-				<li>2014-11-29 <a href="meetdetails.php?meet_id=12">Foot Locker South Regional</a>
-				</li>
-				<li>2014-11-01 <a href="meetdetails.php?meet_id=8">3A State Championships</a>
-				</li>
-				<li>2014-10-25 <a href="meetdetails.php?meet_id=7">3A Mideast Regional</a>
-				</li>
-				<li>2014-10-04 <a href="meetdetails.php?meet_id=4">Wendy's</a>
-				</li>
-				<li>2014-09-16 <a href="meetdetails.php?meet_id=11">Home Meet vs. Gibbons, CR</a>
-				</li>
-				<li>2013-09-17 <a href="meetdetails.php?meet_id=16">Home Meet vs. Gibbons, Orange</a>
-				</li>
-				<li>2012-10-02 <a href="meetdetails.php?meet_id=17">Carolina 3A Conference</a>
-				</li>
-				<li>2011-10-08 <a href="meetdetails.php?meet_id=18">Orange County Meet</a>
-				</li>
-			</ul>
-        </div>
-            <a name="work"></a>
-	</section>
-	
-	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~PAGE4~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-	<section class="page page4" id="workouts">
-        <div class="container yellowC">
-		  <h3>Workout Reports</h3>
-            <ul>
-			 <li>2015-10-15 <a href="workout.php?workout_id=19">1600m time trial</a>
-			 </li>
-			 <li>2015-10-03 <a href="workout.php?workout_id=13">Two Loop Pumpkin Tempo</a>
-			 </li>
-            </ul>
-        </div>
-        <a name="course"></a>
-	</section>
-	
     
-    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~PAGE5~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-	<section class="page page5" id="courses">
-        <div class="container yellowC">
-		<h3>Course Reports</h3>
-            <ul>
-                <li>2015-10-21 <a href="venue.php?venue_id=5">Northwood High School</a>
-                </li>
-                <li>2015-10-13 <a href="venue.php?venue_id=12">CHHS New Course</a>
-                </li>
-                <li>2015-10-10 <a href="venue.php?venue_id=4">Ivey Redmon (Beeson) Park</a>
-                </li>
-                <li>2015-09-26 <a href="venue.php?venue_id=2">Hagan-Stone Park</a>
-                </li>
-                <li>2015-09-19 <a href="venue.php?venue_id=6">WakeMed Soccer Park</a>
-                </li>
-                <li>2015-09-15 <a href="venue.php?venue_id=8">Cedar Ridge High School</a>
-                </li>
-                <li>2015-09-12 <a href="venue.php?venue_id=9">Durham Academy School</a>
-                </li>
-                <li>2015-09-05 <a href="venue.php?venue_id=10">South View High School</a>
-                </li>
-                <li>2014-11-29 <a href="venue.php?venue_id=1">McAlpine Park</a>
-                </li>
-                <li>2014-09-16 <a href="venue.php?venue_id=7">CHHS Old Course</a>
-                </li>
-                <li>2009-11-07 <a href="venue.php?venue_id=11">Tanglewood Park</a>
-                </li>
-            </ul>
-        </div>
-	</section>
-	
-    <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~FOOTER~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-    
-	<section class="page6" id="footer">
-        <div class="navbar navbar-default navbar-fixed-bottom">
-            <div class="container foot">
-                <p class="pull-right">Any questions about this data? Contact <a href="mailto:davemabe@gmail.com"><span class="glyphicon glyphicon-envelope"></span> Dave Mabe</a>.</p>
-            </div>
-        </div>
-	</section>
-    
-    
-	
-	
-	<script>
-        (function(i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r;
-            i[r] = i[r] || function() {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date();
-            a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0];
-            a.async = 1;
-            a.src = g;
-            m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    <div class="contain"> <!-- ADDED DIV -->
+        <h1>CHHS XC Performances</h1>
 
-        ga('create', 'UA-57208692-1', 'auto');
-        ga('send', 'pageview');
-    </script>
+
+        <script>
+            (function(i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function() {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-57208692-1', 'auto');
+            ga('send', 'pageview');
+        </script>
+
+
+        <p>This site shows statistics and performances for Chapel Hill High School Cross Country. Over time we will add more and more historical performances.</p>
+        <p>Can't you just get this data from Milesplit? Some of it you certainly can. Here's how it's different:</p>
+        <ul>
+            <li>We include 1 mile and 2 mile splits when we can capture them so we can calculate negative splits.</li>
+            <li>Over time we will include performances from major workouts that we do each year (mini-michigan, mile time trials, Watauga Road, etc).</li>
+            <li>No Milesplit subscription is required, so CHHS parents can view kids' performances for free.</li>
+            <li>All time CHHS performance lists by race, by course, and by workout.</li>
+        </ul>
+        <p><b>NOTE: Data is up to date for current team members.  There is a good deal of historical data from older teams but it is in no way complete.</b>
+        </p>
+        <ul>
+            <li>Personal Record Report: <a href="prs.php?boygirl=boy">Boys</a>, <a href="prs.php?boygirl=girl">Girls</a>
+            </li>
+            <li><a href="list.php?on_current_team=on">Current Team Performances (searchable by name, year, etc)</a>
+            </li>
+            <li><a href="list.php">All Time CHHS Performances (searchable)</a>
+            </li>
+        </ul>
+    </div>
     
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-    <script src="http://code.jquery.com/jquery.js"></script>
-    <script src="js/times_sidemenu.js"></script>
-    <script src="js/bootstrap.js"></script>
+    
+    <div class="contain"> <!-- ADDED DIV -->
+        <h3>Meet Reports</h3>
+        <ul>
+            <li>2015-11-07 <a href="meetdetails.php?meet_id=8">3A State Championships</a>
+            </li>
+            <li>2015-10-31 <a href="meetdetails.php?meet_id=7">3A Mideast Regional</a>
+            </li>
+            <li>2015-10-21 <a href="meetdetails.php?meet_id=6">Big 8 3A Conference</a>
+            </li>
+            <li>2015-10-13 <a href="meetdetails.php?meet_id=15">Home Meet vs. Northwood</a>
+            </li>
+            <li>2015-10-10 <a href="meetdetails.php?meet_id=14">NCRunners Invite</a>
+            </li>
+            <li>2015-09-26 <a href="meetdetails.php?meet_id=5">Greensboro</a>
+            </li>
+            <li>2015-09-22 <a href="meetdetails.php?meet_id=9">Home Meet vs. Orange, SD</a>
+            </li>
+            <li>2015-09-19 <a href="meetdetails.php?meet_id=3">Adidas XC Challenge</a>
+            </li>
+            <li>2015-09-15 <a href="meetdetails.php?meet_id=10">Meet at Cedar Ridge</a>
+            </li>
+            <li>2015-09-12 <a href="meetdetails.php?meet_id=2">Durham Academy</a>
+            </li>
+            <li>2015-09-05 <a href="meetdetails.php?meet_id=1">Jungle Run</a>
+            </li>
+            <li>2014-11-29 <a href="meetdetails.php?meet_id=12">Foot Locker South Regional</a>
+            </li>
+            <li>2014-10-04 <a href="meetdetails.php?meet_id=4">Wendy's</a>
+            </li>
+            <li>2014-09-16 <a href="meetdetails.php?meet_id=11">Home Meet vs. Gibbons, CR</a>
+            </li>
+            <li>2013-09-17 <a href="meetdetails.php?meet_id=16">Home Meet vs. Gibbons, Orange</a>
+            </li>
+            <li>2012-10-02 <a href="meetdetails.php?meet_id=17">Carolina 3A Conference</a>
+            </li>
+            <li>2011-10-08 <a href="meetdetails.php?meet_id=18">Orange County Meet</a>
+            </li>
+        </ul>
+    </div>
+    
+    
+    <div class="contain"> <!-- ADDED DIV-->
+        <h3>Workout Reports</h3>
+        <ul>
+            <li>2015-10-15 <a href="workout.php?workout_id=19">1600m time trial</a>
+            </li>
+            <li>2015-10-03 <a href="workout.php?workout_id=13">Two Loop Pumpkin Tempo</a>
+            </li>
+        </ul>
+    </div>
+    
+    
+    <div class="contain"> <!-- ADDED DIV-->
+        <h3>Course Reports</h3>
+        <ul>
+            <li>2015-11-07 <a href="venue.php?venue_id=4">Ivey Redmon (Beeson) Park</a>
+            </li>
+            <li>2015-10-31 <a href="venue.php?venue_id=5">Northwood High School</a>
+            </li>
+            <li>2015-10-13 <a href="venue.php?venue_id=12">CHHS New Course</a>
+            </li>
+            <li>2015-09-26 <a href="venue.php?venue_id=2">Hagan-Stone Park</a>
+            </li>
+            <li>2015-09-19 <a href="venue.php?venue_id=6">WakeMed Soccer Park</a>
+            </li>
+            <li>2015-09-15 <a href="venue.php?venue_id=8">Cedar Ridge High School</a>
+            </li>
+            <li>2015-09-12 <a href="venue.php?venue_id=9">Durham Academy School</a>
+            </li>
+            <li>2015-09-05 <a href="venue.php?venue_id=10">South View High School</a>
+            </li>
+            <li>2014-11-29 <a href="venue.php?venue_id=1">McAlpine Park</a>
+            </li>
+            <li>2014-09-16 <a href="venue.php?venue_id=7">CHHS Old Course</a>
+            </li>
+            <li>2009-11-07 <a href="venue.php?venue_id=11">Tanglewood Park</a>
+            </li>
+        </ul>
+    </div>
+    
+    
+    <footer> <!-- ADDED FOOTER-->
+        <p>Any questions about this data? Contact <a href="mailto:davemabe@gmail.com">Dave Mabe</a>.</p>
+        
+        <a href="https://twitter.com/chhs_xctrack" id="twit"><img src="images/twitter.png" alt="Twitter Button"></a> <!--ADDED TWITTER-->
+    </footer>
+    
 </body>
 
 </html>
