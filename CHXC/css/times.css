@@ -198,3 +198,8 @@ nav { /*CSS-Tricks*/
     width: 100%;
     height: 300px;
 }
+
+
+tbody {
+   background-color: #ccc;
+}
