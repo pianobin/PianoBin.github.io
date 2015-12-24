@@ -21,7 +21,6 @@ body {
 footer {
     background-color: #C4D8E2;
     position: fixed;
-    
     padding-left: 1.4em;
     left: 0px;
     bottom: 0px;
@@ -160,4 +159,20 @@ nav { /*CSS-Tricks*/
 }
 
 
-
+.sidebar {
+    float:right;
+    position: fixed;
+    padding-left: 1.4em;
+    left: 75%;
+    bottom: 5%;
+    opacity: 0.3;
+    -webkit-transition: all 0.5s ease; 
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+}
+.sidebar:hover {
+    opacity: 1;
+    -webkit-transition: all 0.5s ease; 
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+}
