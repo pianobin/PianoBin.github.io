@@ -1,7 +1,7 @@
 body {
     background: url(../images/9d962609.png) repeat;
-    padding-bottom: 80px;
     cursor: url(../images/tiger1.png), default;
+    margin-bottom: 25px;
 }
 
 * {
@@ -16,6 +16,7 @@ body {
     border-style: solid;
     border-color: yellow;
     border-width: thick;
+    
 }
 
 footer {
@@ -175,4 +176,31 @@ nav { /*CSS-Tricks*/
     -webkit-transition: all 0.5s ease; 
 	-moz-transition: all 0.5s ease;
 	-o-transition: all 0.5s ease;
+}
+
+
+.slideshow {
+    position: relative;
+    
+}
+.slideshow img {
+    position: absolute;
+}
+
+@keyframes fade {
+    25% {opacity: 1;}
+    40% {opacity: 0;}
+}
+
+.slideshow img:nth-child(4) {
+    animation: fade 40s 0s infinite;
+}
+.slideshow img:nth-child(3) {
+    animation: fade 30s 10s infinite;
+}
+.slideshow img:nth-child(2) {
+    animation: fade 30s 20s infinite;
+}
+.slideshow img:nth-child(1) {
+    animation: fade 30s 30s infinite;
 }
