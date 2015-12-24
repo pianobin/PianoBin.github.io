@@ -99,6 +99,13 @@ nav { /*CSS-Tricks*/
 	top: 30px;
 	text-shadow: none;
 }
+.top-menu li:hover a {
+    color:orange;
+    background-color: transparent;
+}
+.top-menu {
+    color: yellow;
+}
 .top-menu li div.menu-item {	
 	width: 100px;
 	height: 100px;
