@@ -200,6 +200,8 @@ nav { /*CSS-Tricks*/
 }
 
 
-tbody {
+table {
    background-color: #ccc;
+    table-layout: fixed;
+    width: 100%;
 }
