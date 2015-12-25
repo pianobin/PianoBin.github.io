@@ -194,11 +194,16 @@ nav { /*CSS-Tricks*/
 .tiger {
     display: block;
     width: 100%;
-    margin-top: -60px; /*divs have 80*/
+    margin-top: -80px; /*divs have 80*/
 }
 .pic2 {
     width: 100%;
     height: 300px;
+    border:10px solid;
+    border-top-color:#856036;
+    border-left-color:#5d4426;
+    border-bottom-color:#856036;
+    border-right-color:#5d4426;
 }
 
 
