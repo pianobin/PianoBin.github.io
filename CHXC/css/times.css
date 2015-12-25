@@ -210,3 +210,6 @@ nav { /*CSS-Tricks*/
 table {
    background-color: #ccc;
 }
+td {
+    border: 1px solid black;
+}
