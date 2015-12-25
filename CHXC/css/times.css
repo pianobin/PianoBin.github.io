@@ -16,6 +16,8 @@ body {
     border-style: solid;
     border-color: yellow;
     border-width: thick;
+    display: table;
+    width: 100%;
     
 }
 
@@ -202,6 +204,4 @@ nav { /*CSS-Tricks*/
 
 table {
    background-color: #ccc;
-    table-layout: fixed;
-    width: 100%;
 }
