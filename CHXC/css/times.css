@@ -209,6 +209,7 @@ nav { /*CSS-Tricks*/
 
 table {
    background-color: #ccc;
+    border-collapse: collapse;
 }
 td {
     border: 1px solid black;
