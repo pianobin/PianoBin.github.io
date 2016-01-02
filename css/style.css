@@ -82,6 +82,12 @@ body {
     line-height: 25px;
 }
 
+.contain3 a img {
+    padding-left: 20px;
+    height: 20px;
+    width: 20px;
+}
+
 code {
     background-color: black;
     color: white;
