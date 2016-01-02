@@ -81,3 +81,11 @@ body {
     font-weight: bold;
     line-height: 25px;
 }
+
+code {
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    padding: 5px;
+    box-shadow: 3px 4px 3px gray;
+}
