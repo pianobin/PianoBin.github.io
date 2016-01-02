@@ -1,35 +1,76 @@
-@font-face {
-	font-family: GoodDog;
-	src: url{'/fonts/GoodDog/GoodDog.woff'} format('woff');
+body {
+    background: url(../images/notebook.jpg) repeat-y;
+    background-size: cover;
 }
 
-p {
-	font-family: GoodDog;
+.nav {
+    background-color: black;
+    height: 60px;
+    padding: 0;
 }
 
-.List {
-	background-color:LightCyan;
-	padding-left:20px;
-	
+.nav ul li {
+    list-style-type: none;
+    width: 150px;
+    float: left;
 }
 
-.Lorem-ipsum {
-	padding-top:500px;
-	
+.nav ul li a {
+    text-decoration: none;
+    color: white;
+    line-height: 60px;
+    display: block;
+    text-align: center;
 }
 
-.Home {
-	display: block;
-	margin: 0 auto;
-	padding-bottom:0px;
-	padding-top:50px;
+.nav ul li a:hover {
+    background-color: burlywood;
+    font-weight: bold;
+    color: forestgreen;
 }
 
-.bar {
-	
+.contain {
+    background-color: beige;
+    float: left;
+    padding: 20px;
+    margin: 30px;
+    border: 5px solid;
 }
 
-.mib {
-	display:block;
-	padding-top:50px;
+.contain ul li a {
+    text-decoration: none;
+    color: forestgreen;
+    font-weight: bold;
+    line-height: 25px;
+}
+
+.coll > * + *{
+    display: none;
+}
+
+.coll > * {
+    cursor: pointer;
+}
+
+.coll:focus {
+    outline: none;
+}
+
+.coll:focus > * + * {
+    display: block;
+}
+
+.contain2 {
+    background-color: beige;
+    float: right;
+    padding: 20px;
+    margin: 30px;
+    border: 5px solid;
+}
+
+.contain2 a {
+    text-decoration: none;
+    color: forestgreen;
+    font-weight: bold;
+    line-height: 25px;
 }
