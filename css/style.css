@@ -30,21 +30,6 @@ body {
     color: forestgreen;
 }
 
-.contain {
-    background-color: beige;
-    float: left;
-    padding: 20px;
-    margin: 30px;
-    border: 5px solid;
-}
-
-.contain ul li a {
-    text-decoration: none;
-    color: forestgreen;
-    font-weight: bold;
-    line-height: 25px;
-}
-
 .coll > * + *{
     display: none;
 }
@@ -61,23 +46,38 @@ body {
     display: block;
 }
 
-.contain2 {
+.headerblock h1 a {
+    float: left;
+    margin-left: 20px;
+    padding: 5px;
+    text-decoration: overline;
+    background-color: antiquewhite;
+    color: black;
+}
+
+.headerblock h1 a .hover {
+    display: none;
+}
+
+.headerblock h1 a:hover .prev {
+    display: none;
+}
+
+.headerblock h1 a:hover .hover {
+    display: inline;
+    cursor: pointer;
+}
+
+.contain3 {
     background-color: beige;
-    float: right;
     padding: 20px;
     margin: 30px;
     border: 5px solid;
 }
 
-.contain2 a {
+.contain3 a {
     text-decoration: none;
     color: forestgreen;
     font-weight: bold;
     line-height: 25px;
-}
-
-.headerblock h1 {
-    float: left;
-    margin-left: 20px;
-    text-decoration: overline;
 }
