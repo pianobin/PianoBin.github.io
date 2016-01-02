@@ -77,4 +77,6 @@ body {
 
 .headerblock h1 {
     float: left;
+    margin-left: 20px;
+    text-decoration: overline;
 }
