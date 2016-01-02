@@ -1,6 +1,7 @@
 body {
     background: url(../images/notebook.jpg) repeat-y;
     background-size: cover;
+    font-family: 'Karla', sans-serif;
 }
 
 .nav {
