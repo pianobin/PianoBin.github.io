@@ -46,6 +46,14 @@ body {
     display: block;
 }
 
+.coll:active {
+    outline: none;
+}
+
+.coll:active > * + * {
+    display: block;
+}
+
 .headerblock h1 a {
     float: left;
     margin-left: 20px;
