@@ -7,8 +7,6 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		
-        <meta name="google-site-verification" content="4TXsDUDp-fXWUqUBAE1umael2WyDVm5IjVZbgCTbAJM" />
-        
 		<link rel="stylesheet" type="text/css" href="css/style.css">
         
 		<link href='https://fonts.googleapis.com/css?family=Karla' rel='stylesheet' type='text/css'>
@@ -102,8 +100,6 @@
             <a name="aboutmeANCHOR"></a>
         </div>
         
-	
-
         <div class="contain3">
             <h1>Contact Me:</h1>
             <a name="contactmeANCHOR"></a>
