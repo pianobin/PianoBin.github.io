@@ -1,19 +1,19 @@
-themes {
+.themes {
 	background-color: #348fd4;
 }
 
-summary {
+.summary {
 	background-color: #cc4037;
 }
 
-commentary {
+.commentary {
 	background-color: #ffc19f;
 }
 
-minor {
+.minor {
 	background-color: #06406c;
 }
 
-links {
+.links {
 	background-color: #4c0d09;
 }
