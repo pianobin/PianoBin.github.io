@@ -34,3 +34,12 @@ p {
 	max-width: 150px;
 	max-height: 150px;
 }
+
+.seetext {
+	font-weight: bold;
+}
+
+.smallimgs {
+	max-width: 300px;
+	max-height: 300px;
+}
