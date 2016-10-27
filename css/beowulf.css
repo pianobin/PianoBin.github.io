@@ -29,3 +29,8 @@ h1 {
 p {
 	font-family: 'Raleway', sans-serif;
 }
+
+.card img {
+	max-width: 150px;
+	max-height: 150px;
+}
