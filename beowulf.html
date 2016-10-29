@@ -28,6 +28,15 @@
   </head>
   <body>
 
+  
+	<ul id="myMenu">
+		<li data-menuanchor="about" class="active"><a href="#about">About Beowulf</a></li>
+		<li data-menuanchor="themes"><a href="#themes">Themes</a></li>
+		<li data-menuanchor="summary"><a href="#summary">Summary</a></li>
+		<li data-menuanchor="comm"><a href="#comm">Commentary</a></li>
+		<li data-menuanchor="links"><a href="#links">Links</a></li>
+	</ul>
+	
     <nav class="navbar navbar-static-top navbar-light bg-faded">
       <a href="#" class="navbar-brand">Beowulf</a>
       <ul class="nav navbar-nav">
@@ -350,7 +359,7 @@
     $(document).ready(function() {
         $('#fullpage').fullpage({
             anchors: ['about', 'themes', 'summary', 'comm', 'links'],
-            //menu: '#menu',
+            menu: '#myMenu',
             css3: true,
             scrollingSpeed: 1000
         });
