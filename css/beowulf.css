@@ -1,12 +1,15 @@
 .themes {
+	height: 100vh;	
 	background-color: #348fd4;
 }
 
 .summary {
+	height: 100vh;
 	background-color: #cc4037;
 }
 
 .commentary {
+	height: 100vh;
 	background-color: #ffc19f;
 }
 
@@ -15,6 +18,7 @@
 }
 
 .links {
+	height: 100vh;
 	background-color: #4c0d09;
 }
 
