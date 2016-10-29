@@ -19,6 +19,12 @@
 	
 	<link href="css/beowulf.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Chelsea+Market|Raleway" rel="stylesheet"> 
+	
+	<!-- Jquery full page JS-->
+	<link rel="stylesheet" type="text/css" href="css/jquery.fullPage.css" />
+	
+	<!-- Jquery CDN -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   </head>
   <body>
 
@@ -47,9 +53,11 @@
     </nav>
 
 
+	<div id="fullpage">
+	
     <!-- Carousel
     ================================================== -->
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <div id="myCarousel" class="carousel slide carouselPage section" data-ride="carousel">
 	<a name="about"></a>
       <!-- Indicators -->
       <ol class="carousel-indicators">
@@ -104,7 +112,7 @@
     <div class="container-fluid">
 
       <!-- Three columns of text below the carousel -->
-      <div class="row themes">
+      <div class="row themes section">
 		<h1> Themes of Beowulf <a name="theme"></a></h1>
         <div class="col-lg-4">
           <img class="img-circle" src="/beoImages/beowulf-symb1.png" alt="Generic placeholder image" width="140" height="140">
@@ -128,7 +136,7 @@
 
 	  <hr class="featurette-divider">
 	  
-	  <div class="row featurette summary">
+	  <div class="row featurette summary section">
 		<h2> Summary of Beowulf <a name="summary"></a></h2>
 		<div class="col-md-6">
           <img class="featurette-image img-fluid m-x-auto smallimgs" src="/beoImages/StackBooks.jpg" alt="Summary">
@@ -142,7 +150,7 @@
 	  
       <hr class="featurette-divider">
 	  
-	  <div class="row featurette commentary">
+	  <div class="row featurette commentary section">
 		<h2> Commentary of Beowulf <a name="comm"></a></h2>
 		<div class="col-md-6">
           <img class="featurette-image img-fluid m-x-auto smallimgs" src="/beoImages/Commentary_node.jpg" alt="Commentary">
@@ -154,6 +162,7 @@
 	  
       <hr class="featurette-divider">
 	  
+	  <div class="section">
 	  <h1> Characters <a name="char"></a></h1>
       <div class="row featurette">
         <div class="col-md-7">
@@ -224,10 +233,10 @@
           <img class="featurette-image img-fluid m-x-auto" src="/beoImages/dragon.jpg" alt="Generic placeholder image">
         </div>
       </div>
-	  
+	  </div>
 	  <hr class="featurette-divider">
 	  
-	  <div class="row featurette minor">
+	  <div class="row featurette minor section">
 		<h2> Other Characters </h2>
 		<div class="col-md-4">
 			<p>
@@ -304,7 +313,7 @@
 	  
 	  <hr class="featurette-divider">
 	  
-	  <div class="row featurette links">
+	  <div class="row featurette links section">
 		<h2> Related Links: <a name="links"></a></h2>
         <div class="col-md-6 push-md-6">
           <p> 
@@ -330,6 +339,7 @@
 
     </div><!-- /.container -->
 
+	</div>
 
 	<!--  http://v4-alpha.getbootstrap.com/components/collapse/ -->
 	<!-- http://v4-alpha.getbootstrap.com/utilities/colors/ -->
@@ -344,5 +354,7 @@
     <script src="js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+	
+	<script type="text/javascript" src="jquery.fullPage.js"></script>
   </body>
 </html>
