@@ -18,6 +18,8 @@
 	background-color: #4c0d09;
 }
 
+.nav { overflow-y: hidden !important }
+
 h2 {
 	font-family: 'Chelsea Market', cursive;
 }
