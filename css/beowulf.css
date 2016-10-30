@@ -18,7 +18,14 @@
 	background-color: #4c0d09;
 }
 
-.nav { overflow-y: hidden !important }
+body {
+  padding-top: 60px;
+}
+@media (max-width: 979px) {
+  body {
+    padding-top: 0px;
+  }
+}
 
 h2 {
 	font-family: 'Chelsea Market', cursive;
