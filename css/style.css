@@ -1,33 +1,48 @@
 body {
-    background: url(../images/notebook.jpg) repeat-y;
-    background-size: cover;
+    background-color: #e7e7e7;
     font-family: 'Karla', sans-serif;
 }
 
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
 .nav {
-    background-color: black;
+    background-color: white;
     height: 60px;
     padding: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    overflow: hidden;
 }
 
 .nav ul li {
     list-style-type: none;
     width: 150px;
     float: left;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 30px;
 }
 
 .nav ul li a {
     text-decoration: none;
-    color: white;
-    line-height: 60px;
     display: block;
-    text-align: center;
+    color:blue; background:white;
+    -o-transition:color .2s ease-out, background 1s ease-in;
+    -ms-transition:color .2s ease-out, background 1s ease-in;
+    -moz-transition:color .2s ease-out, background 1s ease-in;
+    -webkit-transition:color .2s ease-out, background 1s ease-in;
+    transition:color .2s ease-out, background 1s ease-in;
 }
 
 .nav ul li a:hover {
-    background-color: burlywood;
     font-weight: bold;
     color: forestgreen;
+    background-color: antiquewhite;
 }
 
 .coll > * + *{
@@ -54,26 +69,30 @@ body {
     display: block;
 }
 
-.headerblock h1 a {
+.headerblock a {
     float: left;
-    margin-left: 20px;
-    padding: 5px;
-    text-decoration: overline;
-    background-color: antiquewhite;
-    color: black;
+    text-decoration: none;
+    color: white;
+    width: 150px;
 }
 
-.headerblock h1 a .hover {
+.headerblock a .hover {
     display: none;
 }
 
-.headerblock h1 a:hover .prev {
+.headerblock a:hover .prev {
     display: none;
 }
 
-.headerblock h1 a:hover .hover {
+.headerblock a:hover .hover {
     display: inline;
     cursor: pointer;
+}
+
+.headerblock img {
+    vertical-align: middle;
+    display: inline-block;
+    height: 2em;
 }
 
 .contain3 {
@@ -83,7 +102,7 @@ body {
     border: 5px solid;
 }
 
-.contain3 a {
+.contain3 .nonicons {
     text-decoration: none;
     color: forestgreen;
     font-weight: bold;
@@ -106,4 +125,52 @@ code {
 
 .contain3 h1 {
     border-bottom: 5px solid;
+}
+
+/* Table highlighting */
+table {
+    width: 100%;
+    overflow: hidden;
+    border-collapse: collapse;
+}
+
+td, th {
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+  padding: 10px;
+  position: relative;
+  outline: 0;
+}
+
+body:not(.nohover) tbody tr:hover {
+  background-color: #eaeaea;
+}
+
+.fcolumn {
+    width: 25%;
+}
+
+h2 {
+    text-align: center;
+    color: blue;
+}
+
+h3 {
+    text-align: center;
+}
+
+.link {
+    color: forestgreen;
+}
+
+.icons {
+    color: cornflowerblue;
+}
+
+.icons:hover {
+    color: blue;
+}
+
+.nonicons:hover {
+    text-decoration: underline;
 }
