@@ -12,10 +12,15 @@ html, body {
     background-color: white;
     height: 60px;
     padding: 0;
+    padding-top: 5px;
     position: fixed;
     top: 0;
     width: 100%;
     overflow: hidden;
+}
+
+.nav ul {
+    font-size: 0;
 }
 
 .nav ul li {
@@ -26,6 +31,7 @@ html, body {
     text-align: center;
     vertical-align: middle;
     line-height: 30px;
+    font-size: 16px;
 }
 
 .nav ul li a {
@@ -173,4 +179,24 @@ h3 {
 
 .nonicons:hover {
     text-decoration: underline;
+}
+
+/* Float */
+.hvr-float {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.hvr-float:hover, .hvr-float:focus, .hvr-float:active {
+  -webkit-transform: translateY(-8px);
+  transform: translateY(-8px);
+    color: forestgreen;
 }
