@@ -181,6 +181,27 @@ h3 {
     text-decoration: underline;
 }
 
+.resume {
+  border-style: dotted;
+  width: 20%;
+  margin: 0 auto;
+  -webkit-transition: background-color 1s ease-out;
+  -moz-transition: background-color 1s ease-out;
+  -o-transition: background-color 1s ease-out;
+  transition: background-color 1s ease-out;
+}
+
+tr {
+  -webkit-transition: background-color 0.5s ease-out;
+  -moz-transition: background-color 0.5s ease-out;
+  -o-transition: background-color 0.5s ease-out;
+  transition: background-color 0.5s ease-out;
+}
+
+.resume:hover {
+  background-color: skyblue;
+}
+
 /* Float */
 .hvr-float {
   display: inline-block;
