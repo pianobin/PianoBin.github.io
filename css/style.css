@@ -37,7 +37,7 @@ html, body {
 .nav ul li a {
     text-decoration: none;
     display: block;
-    color:blue; background:white;
+    color:#3498db; background:white;
     -o-transition:color .2s ease-out, background 1s ease-in;
     -ms-transition:color .2s ease-out, background 1s ease-in;
     -moz-transition:color .2s ease-out, background 1s ease-in;
@@ -106,6 +106,7 @@ html, body {
     padding: 20px;
     margin: 30px;
     border: 5px solid;
+    box-shadow: 10px 10px 5px gray;
 }
 
 .contain3 .nonicons {
@@ -113,6 +114,11 @@ html, body {
     color: forestgreen;
     font-weight: bold;
     line-height: 25px;
+
+    -webkit-transition: color 1s ease-out;
+    -moz-transition: color 1s ease-out;
+    -o-transition: color 1s ease-out;
+    transition: color 1s ease-out;
 }
 
 .contain3 a img {
@@ -154,11 +160,12 @@ body:not(.nohover) tbody tr:hover {
 
 .fcolumn {
     width: 25%;
+    font-weight: bold;
 }
 
 h2 {
     text-align: center;
-    color: blue;
+    color: #3498db;
 }
 
 h3 {
@@ -171,14 +178,30 @@ h3 {
 
 .icons {
     color: cornflowerblue;
+
+    -webkit-transition: color 1s ease-out;
+    -moz-transition: color 1s ease-out;
+    -o-transition: color 1s ease-out;
+    transition: color 1s ease-out;
 }
 
 .icons:hover {
     color: blue;
+
+    -webkit-transition: color 1s ease-out;
+    -moz-transition: color 1s ease-out;
+    -o-transition: color 1s ease-out;
+    transition: color 1s ease-out;
 }
 
 .nonicons:hover {
+    color: #33691e;
     text-decoration: underline;
+
+    -webkit-transition: color 1s ease-out;
+    -moz-transition: color 1s ease-out;
+    -o-transition: color 1s ease-out;
+    transition: color 1s ease-out;
 }
 
 .resume {
@@ -220,4 +243,43 @@ tr {
   -webkit-transform: translateY(-8px);
   transform: translateY(-8px);
     color: forestgreen;
+}
+
+.nonlink {
+  color: #d35400;
+}
+
+.contain3 h1 {
+  color: black;
+
+  -webkit-transition: color 1s ease-out;
+  -moz-transition: color 1s ease-out;
+  -o-transition: color 1s ease-out;
+  transition: color 1s ease-out;
+}
+
+.contain3:hover h1 {
+  color: #2ecc71;
+  -webkit-transition: color 1s ease-out;
+  -moz-transition: color 1s ease-out;
+  -o-transition: color 1s ease-out;
+  transition: color 1s ease-out;
+}
+
+tr .fcolumn {
+  color: black;
+
+  -webkit-transition: color 2s ease-out;
+  -moz-transition: color 2s ease-out;
+  -o-transition: color 2s ease-out;
+  transition: color 2s ease-out;
+}
+
+tr:hover .fcolumn {
+  color: #8e44ad;
+
+  -webkit-transition: color 0.5s ease-out;
+  -moz-transition: color 0.5s ease-out;
+  -o-transition: color 0.5s ease-out;
+  transition: color 0.5s ease-out;
 }
