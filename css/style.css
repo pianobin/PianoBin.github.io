@@ -259,7 +259,7 @@ tr {
 }
 
 .contain3:hover h1 {
-  color: #2ecc71;
+  color: #27ae60;
   -webkit-transition: color 1s ease-out;
   -moz-transition: color 1s ease-out;
   -o-transition: color 1s ease-out;
@@ -276,7 +276,7 @@ tr .fcolumn {
 }
 
 tr:hover .fcolumn {
-  color: #8e44ad;
+  color: #d35400;
 
   -webkit-transition: color 0.5s ease-out;
   -moz-transition: color 0.5s ease-out;
