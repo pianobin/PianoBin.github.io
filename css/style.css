@@ -103,10 +103,13 @@ html, body {
 
 .contain3 {
     background-color: beige;
+    position: relative;
     padding: 1%;
     margin: 2%;
     border: 5px solid;
     box-shadow: 10px 10px 5px gray;
+    white-space: normal;
+    overflow: scroll;
 }
 
 .contain3 .nonicons {
