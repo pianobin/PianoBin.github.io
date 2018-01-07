@@ -103,8 +103,8 @@ html, body {
 
 .contain3 {
     background-color: beige;
-    padding: 20px;
-    margin: 30px;
+    padding: 1%;
+    margin: 2%;
     border: 5px solid;
     box-shadow: 10px 10px 5px gray;
 }
