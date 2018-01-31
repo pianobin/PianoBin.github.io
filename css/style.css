@@ -286,3 +286,7 @@ tr:hover .fcolumn {
   -o-transition: color 0.5s ease-out;
   transition: color 0.5s ease-out;
 }
+
+.indent {
+  margin-left: 10px;
+}
