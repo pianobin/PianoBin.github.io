@@ -1,6 +1,7 @@
 body {
     background-color: #e7e7e7;
     font-family: 'Karla', sans-serif;
+    animation: pulse 5s 1;
 }
 
 html, body {
@@ -17,6 +18,7 @@ html, body {
     top: 0;
     width: 100%;
     overflow: hidden;
+    letter-spacing: 1.5px;
 }
 
 .nav ul {
@@ -307,4 +309,18 @@ tr:hover .fcolumn {
 
 .musText {
   font-weight: bold;
+}
+
+td:nth-child(odd) {  
+  border-right: 3px solid gray;
+  text-align: center;
+}
+
+@keyframes pulse {
+  0% {
+    background-color: beige;
+  }
+  100% {
+    background-color: #e7e7e7;
+  }
 }
