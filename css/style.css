@@ -162,6 +162,14 @@ h3 {
     text-align: center;
 }
 
+h4 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
 .link {
     color: forestgreen;
 }
@@ -299,4 +307,9 @@ tr:hover .fcolumn {
 td:nth-child(odd) {  
   border-right: 3px solid gray;
   text-align: center;
+}
+
+.logo {
+  height: 60px;
+  width: 73.3px;
 }
