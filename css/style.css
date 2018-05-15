@@ -1,9 +1,3 @@
-body {
-    background-color: #e7e7e7;
-    font-family: 'Karla', sans-serif;
-    animation: pulse 5s 1;
-}
-
 html, body {
   padding: 0;
   margin: 0;
@@ -130,14 +124,6 @@ html, body {
     padding-left: 20px;
     height: 20px;
     width: 20px;
-}
-
-code {
-    background-color: black;
-    color: white;
-    border-radius: 8px;
-    padding: 5px;
-    box-shadow: 3px 4px 3px gray;
 }
 
 .contain3 h1 {
@@ -314,13 +300,4 @@ tr:hover .fcolumn {
 td:nth-child(odd) {  
   border-right: 3px solid gray;
   text-align: center;
-}
-
-@keyframes pulse {
-  0% {
-    background-color: beige;
-  }
-  100% {
-    background-color: #e7e7e7;
-  }
 }
