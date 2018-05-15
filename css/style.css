@@ -313,3 +313,7 @@ td:nth-child(odd) {
   height: 60px;
   width: 73.3px;
 }
+
+p {
+  text-align: center;
+}
