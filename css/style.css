@@ -164,6 +164,7 @@ h3 {
 
 h4 {
     text-align: center;
+    display: inline;
 }
 
 h5 {
@@ -394,4 +395,9 @@ p {
     opacity:1;
     -ms-transform:  translate(0px,0px)  ;
   }
+}
+
+.pagin {
+  text-align: center;
+  margin: 10% auto;
 }
