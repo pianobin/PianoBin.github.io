@@ -163,6 +163,10 @@ h3 {
 }
 
 h4 {
+  text-align: center;
+}
+
+.pagin > h4 {
     text-align: center;
     display: inline;
 }
