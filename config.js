@@ -16,8 +16,12 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'OMORI',
+      path: '/pages/omori'
+    },
+    {
+      label: 'Contact me',
+      path: '/pages/contacts'
     }
   ],
   author: {
@@ -28,11 +32,11 @@ module.exports = {
       email: '',
       facebook: 'pianobinmusic',
       telegram: '',
-      twitter: '',
+      twitter: 'pianobinmusic',
       github: 'Pianobin',
       rss: '',
       vkontakte: '',
-      linkedin: 'shojmo',
+      linkedin: '',
       instagram: 'pianobinmusic',
       line: '',
       gitlab: '',

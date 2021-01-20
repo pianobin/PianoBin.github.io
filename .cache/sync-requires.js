@@ -9,8 +9,8 @@ exports.components = {
   "component---src-templates-not-found-template-js": hot(preferDefault(require("/Users/smoto2/Documents/GitHub/PianoBin.github.io/src/templates/not-found-template.js"))),
   "component---src-templates-tags-list-template-js": hot(preferDefault(require("/Users/smoto2/Documents/GitHub/PianoBin.github.io/src/templates/tags-list-template.js"))),
   "component---src-templates-categories-list-template-js": hot(preferDefault(require("/Users/smoto2/Documents/GitHub/PianoBin.github.io/src/templates/categories-list-template.js"))),
-  "component---src-templates-post-template-js": hot(preferDefault(require("/Users/smoto2/Documents/GitHub/PianoBin.github.io/src/templates/post-template.js"))),
   "component---src-templates-page-template-js": hot(preferDefault(require("/Users/smoto2/Documents/GitHub/PianoBin.github.io/src/templates/page-template.js"))),
+  "component---src-templates-post-template-js": hot(preferDefault(require("/Users/smoto2/Documents/GitHub/PianoBin.github.io/src/templates/post-template.js"))),
   "component---src-templates-tag-template-js": hot(preferDefault(require("/Users/smoto2/Documents/GitHub/PianoBin.github.io/src/templates/tag-template.js"))),
   "component---src-templates-category-template-js": hot(preferDefault(require("/Users/smoto2/Documents/GitHub/PianoBin.github.io/src/templates/category-template.js"))),
   "component---src-templates-index-template-js": hot(preferDefault(require("/Users/smoto2/Documents/GitHub/PianoBin.github.io/src/templates/index-template.js")))

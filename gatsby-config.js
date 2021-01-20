@@ -204,5 +204,12 @@ module.exports = {
     },
     'gatsby-plugin-flow',
     'gatsby-plugin-optimize-svgs',
+    {
+      resolve: 'gatsby-plugin-scroll-indicator',
+      options: {
+        // Configure color of the scroll indicator
+        color: '#F7A046',
+      },
+    },
   ]
 };
