@@ -91,7 +91,7 @@
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
   Link: </commons-d2191fc6201526671165.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-7561b72f3997c21f4dc5.js>; rel=preload; as=script
-/omori/
+/posts/patreon-board-sept-2022
   Link: </webpack-runtime-078247b94bfea9ee5528.js>; rel=preload; as=script
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
   Link: </commons-d2191fc6201526671165.js>; rel=preload; as=script
@@ -99,7 +99,7 @@
   Link: </app-0605fed09f9aea0be7cf.js>; rel=preload; as=script
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
   Link: </commons-d2191fc6201526671165.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-7561b72f3997c21f4dc5.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-f4cdaf7c12d816196ba8.js>; rel=preload; as=script
 /pages/about/
   Link: </webpack-runtime-078247b94bfea9ee5528.js>; rel=preload; as=script
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
@@ -109,7 +109,7 @@
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
   Link: </commons-d2191fc6201526671165.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-7561b72f3997c21f4dc5.js>; rel=preload; as=script
-/posts/hello-world
+/omori/
   Link: </webpack-runtime-078247b94bfea9ee5528.js>; rel=preload; as=script
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
   Link: </commons-d2191fc6201526671165.js>; rel=preload; as=script
@@ -117,7 +117,7 @@
   Link: </app-0605fed09f9aea0be7cf.js>; rel=preload; as=script
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
   Link: </commons-d2191fc6201526671165.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-f4cdaf7c12d816196ba8.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-7561b72f3997c21f4dc5.js>; rel=preload; as=script
 /pages/contacts/
   Link: </webpack-runtime-078247b94bfea9ee5528.js>; rel=preload; as=script
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
