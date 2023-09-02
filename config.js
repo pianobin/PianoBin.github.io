@@ -16,12 +16,28 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'OMORI',
-      path: '/pages/omori'
-    },
-    {
       label: 'Contact me',
       path: '/pages/contacts'
+    },
+    {
+      label: 'OMORI',
+      path: '/omori'
+    },
+    {
+      label: 'NSO',
+      path: '/nso'
+    },
+    {
+      label: 'Impostor Factory',
+      path: '/if'
+    },
+    {
+      label: 'Paper Lily',
+      path: '/paper_lily'
+    },
+    {
+      label: 'ASFTU',
+      path: '/asftu'
     }
   ],
   author: {

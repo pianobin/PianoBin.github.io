@@ -6,7 +6,7 @@ socialImage: "/photo.png"
 
 ---
 
-You are free to create covers, remixes, etc. based on my piano tutorials, sheet music, or MIDI/audio files. You may also use the audio from my videos as background music for your own videos. Please credit my [channel](https://www.youtube.com/pianobin) when possible.
+You are free to create covers or remixes based on my piano tutorials, sheet music, or MIDI/audio files. You may also use the audio from my videos as background music for your own videos. Please credit my [channel](https://www.youtube.com/pianobin) when possible.
 
 Suggested Example:
 
@@ -19,7 +19,7 @@ If you do create something based on my piano arrangements, please don't hesitate
 
 ---
 
-**Have any questions?**
+### Have any questions?
 
 The best way to reach me is through email: _**shoji AT pianobin.com**_.
 

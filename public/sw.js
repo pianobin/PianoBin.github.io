@@ -30,13 +30,13 @@ self.__precacheManifest = [
     "url": "webpack-runtime-078247b94bfea9ee5528.js"
   },
   {
-    "url": "styles.ff077718b129653365db.css"
+    "url": "styles.143a3cb69db8d42fb79c.css"
   },
   {
     "url": "styles-70fcddd426196ea513a1.js"
   },
   {
-    "url": "commons-edc28f54cc7e62d1af27.js"
+    "url": "commons-ec652e55100c69dfaf79.js"
   },
   {
     "url": "netlify-identity-widget-e37a35e339457e643f79.js"
@@ -49,11 +49,11 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "281daec1a572fac077cb45f219e5845d"
+    "revision": "c0ed818bea4c96a3018e8d667149d307"
   },
   {
     "url": "manifest.json",
-    "revision": "525f8fdc673f544887998e2e653a54c5"
+    "revision": "b773e901ef06ac93343dc05e67540787"
   },
   {
     "url": "manifest.webmanifest",

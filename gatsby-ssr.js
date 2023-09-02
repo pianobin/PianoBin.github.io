@@ -1,3 +1,10 @@
-'use strict';
+const React = require('react')
 
-exports.onRenderBody = require('./gatsby/on-render-body.js');
+// const HeadComponents = [
+//     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2056168497841803"
+//     crossorigin="anonymous"></script>,
+// ]
+
+exports.onRenderBody = ({ setHeadComponents }, pluginOptions) => {
+  // setHeadComponents(HeadComponents)
+}
