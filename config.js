@@ -38,6 +38,10 @@ module.exports = {
     {
       label: 'ASFTU',
       path: '/asftu'
+    },
+    {
+      label: 'TCOAL',
+      path: '/tcoal'
     }
   ],
   author: {

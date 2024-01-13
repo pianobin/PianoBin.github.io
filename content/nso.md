@@ -14,8 +14,6 @@ Below you will find sheet music from previous NEEDY STREAMER OVERLOAD／NEEDY GI
 
 **[NEEDY STREAMER OVERLOAD](https://whysoserious.jp/)** is a denpa-themed adventure visual novel developed by WSS playground released on January 21, 2022. If you enjoy these, please support the original artists by purchasing the full soundtrack on [Steam](https://store.steampowered.com/app/1645220/NEEDY_STREAMER_OVERLOAD_Soundtrack/)!
 
-_This sheet music is released under permission from WSS playground and is intended for your own personal use. Please do not reupload or redistribute on other websites. All rights reserved to Aiobahn._
-
 ---
 
 ### SOUNDTRACK
