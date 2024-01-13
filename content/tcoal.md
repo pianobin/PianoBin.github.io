@@ -12,7 +12,7 @@ socialImage: "/photo.png"
 
 Below you will find sheet music from previous The Coffin of Andy and Leyley piano arrangements.
 
-**[The Coffin of Andy and Leyley](https://freebirdgames.com/games/impostor-factory/)** (TCOAL) is a dark RPG Maker game developed by Nemlei. The first two chapters were released to Steam on October 13, 2023. If you enjoy these, please support the developer by purchasing the game on [Steam](https://store.steampowered.com/app/2378900/The_Coffin_of_Andy_and_Leyley/)!
+**[The Coffin of Andy and Leyley](https://store.steampowered.com/app/2378900/The_Coffin_of_Andy_and_Leyley/)** (TCOAL) is a dark RPG Maker game developed by Nemlei. The first two chapters were released to Steam on October 13, 2023. If you enjoy these, please support the developer by purchasing the game on [Steam](https://store.steampowered.com/app/2378900/The_Coffin_of_Andy_and_Leyley/)!
 
 ---
 
