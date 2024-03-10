@@ -13,7 +13,7 @@ socialImage: "/photo.png"
 
 ---
 
-**Background:** Making piano arrangements is a hobby and the videos will always remain free, but I am especially grateful for the following people who have supported my work through Patreon!
+Making piano arrangements is a hobby and the videos will always remain free, but I am especially grateful for the following people who have supported my work through Patreon!
 
 ---
 

@@ -130,7 +130,7 @@ _This sheet music is released under permission from the original composer and is
 172 DUET / [Piano Sheet Music](/media/omori/DUET_PB.pdf) / [Piano + Violin Sheet Music](/media/omori/DUET_violin_piano_PB.pdf) / [Piano Tutorial](https://youtu.be/q2PGQBoei2M)  
 175 Clean Slate / [Sheet Music](/media/omori/Clean_Slate_PB.pdf) / [Piano Tutorial](https://youtu.be/5VNgnakqUKQ)  
 177 Good Morning / [Sheet Music](/media/omori/Good_Morning_PB.pdf) / [Piano Tutorial](https://youtu.be/Cf3S6rgtc3g)  
-178 My Time / [Sheet Music](/media/omori/My_Time_PB.pdf) / [Piano Tutorial](https://youtu.be/l4uHQG19dF8)
+178 My Time / [Sheet Music](/media/omori/My_Time_v2_PB.pdf) / [Piano Tutorial](https://youtu.be/l4uHQG19dF8)
 
 ##### Bonus Arrange
 
@@ -143,4 +143,4 @@ OMORI Switch Announcement Trailer OST / [Sheet Music](/media/omori/OMORI_Switch_
 
 **_Find Pianobin on [YouTube](https://www.youtube.com/pianobin)._**
 
-_Last updated 2022-10-11_
+_Last updated 2024-02-22_

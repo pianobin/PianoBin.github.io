@@ -6,16 +6,9 @@ socialImage: "/photo.png"
 
 ---
 
-You are free to create covers or remixes based on my piano tutorials, sheet music, or MIDI/audio files. You may also use the audio from my videos as background music for your own videos. Please credit my [channel](https://www.youtube.com/pianobin) when possible.
+You may create covers or remixes based on my piano tutorials, sheet music, or MIDI/audio files. You may also use the audio from my videos as background music for your own videos. Please credit my [channel](https://www.youtube.com/pianobin) when possible.
 
-Suggested Example:
-
-```
-Arrangement by Pianobin
-YouTube: https://www.youtube.com/pianobin
-```
-
-If you do create something based on my piano arrangements, please don't hesitate to show me! I love seeing your creative work.
+If you create something based on my piano arrangements, please don't hesitate to show me! I would love to see your creative work.
 
 ---
 

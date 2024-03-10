@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Home',
       path: '/'
     },
     {
@@ -42,6 +42,10 @@ module.exports = {
     {
       label: 'TCOAL',
       path: '/tcoal'
+    },
+    {
+      label: 'Persona 3 Reload',
+      path: '/p3r'
     }
   ],
   author: {
