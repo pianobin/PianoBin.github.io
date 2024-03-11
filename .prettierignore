@@ -1,1 +1,10 @@
-content/tcoal.md
+*.*
+!*.json
+!*.md
+!*.mdx
+!*.ts
+!*.tsx
+!*.yml
+!*.js
+/coverage/
+/public/

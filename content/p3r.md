@@ -1,7 +1,7 @@
 ---
 title: "Persona 3 Reload Sheet Music"
 template: "page"
-socialImage: "/photo.png"
+socialImage: "./photo.png"
 ---
 
 ---
