@@ -1,7 +1,7 @@
 ---
 title: "NEEDY STREAMER OVERLOAD Sheet Music"
 template: "page"
-socialImage: "/photo.png"
+socialImage: "./photo.png"
 ---
 
 ---

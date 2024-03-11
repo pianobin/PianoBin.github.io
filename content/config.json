@@ -1,0 +1,72 @@
+{
+  "title": "Pianobin",
+  "url": "https://pianobin.com",
+  "subtitle": "Piano tutorials, sheet music, and arrangements.",
+  "copyright": "© All rights reserved.",
+  "disqusShortname": "",
+  "postsLimit": 4,
+  "pathPrefix": "/",
+  "menu": [
+    {
+      "label": "Articles",
+      "path": "/"
+    },
+    {
+      "label": "Contact me",
+      "path": "/pages/contacts"
+    },
+    {
+      "label": "OMORI",
+      "path": "/omori"
+    },
+    {
+      "label": "NSO",
+      "path": "/nso"
+    },
+    {
+      "label": "Impostor Factory",
+      "path": "/if"
+    },
+    {
+      "label": "Paper Lily",
+      "path": "/paper_lily"
+    },
+    {
+      "label": "ASFTU",
+      "path": "/asftu"
+    },
+    {
+      "label": "TCOAL",
+      "path": "/tcoal"
+    },
+    {
+      "label": "Persona 3 Reload",
+      "path": "/p3r"
+    }
+  ],
+  "author": {
+    "name": "Pianobin",
+    "photo": "/photo.png",
+    "bio": "Piano tutorials, sheet music, and arrangements.",
+    "contacts": {
+      "rss": "",
+      "email": "",
+      "github": "Pianobin",
+      "facebook": "pianobinmusic",
+      "telegram": "#",
+      "twitter": "pianobinmusic",
+      "linkedin": "#",
+      "instagram": "pianobinmusic",
+      "mastodon": "#",
+      "line": "",
+      "weibo": "",
+      "gitlab": "",
+      "medium": "",
+      "youtube": "pianobin",
+      "codepen": "",
+      "soundcloud": "",
+      "bluesky": "",
+      "patreon": "pianobin"
+    }
+  }
+}

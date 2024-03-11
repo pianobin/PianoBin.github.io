@@ -1,7 +1,7 @@
 ---
 title: "The Coffin of Andy and Leyley Sheet Music"
 template: "page"
-socialImage: "/photo.png"
+socialImage: "./photo.png"
 ---
 
 ---
@@ -31,7 +31,7 @@ Below you will find sheet music from previous The Coffin of Andy and Leyley pian
 ##### CHAPTER 2
 
 15 03myuu Cloud Chiptune / [Duet Sheet Music](/media/tcoal/03myuu_Cloud_Chiptune_PB.pdf) / [Piano Tutorial](https://youtu.be/3hoW1Y_Xd5s)  
-16 08myuu\_Halloween\_Chiptune / [Sheet Music](/media/tcoal/08myuu_Halloween_Chiptune_PB.pdf) / [Piano Tutorial](https://youtu.be/sNi_Wz-vuP0)  
+16 08myuu_Halloween_Chiptune / [Sheet Music](/media/tcoal/08myuu_Halloween_Chiptune_PB.pdf) / [Piano Tutorial](https://youtu.be/sNi_Wz-vuP0)  
 21 smallmagicbook / [Sheet Music](/media/tcoal/smallmagicbook_PB.pdf) / [Piano Tutorial](https://youtu.be/iTChcJPkzRE)
 
 ---
