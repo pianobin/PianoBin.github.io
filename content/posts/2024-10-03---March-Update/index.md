@@ -13,7 +13,7 @@ socialImage: "./photo.png"
 
 Hello!
 
-I have updated the website to Gatsby v4 and transferred to a new version of the site template which I had been using since 2018. It was a long overdue update that should speed things up - please let me know if you find any broken links!
+I have updated the website to Gatsby v4 and transferred to a new version of the site template which I had been using since 2018. It was a long overdue update - please let me know if you find any broken links or other issues!
 
 New updates also include:
 - [TCOAL sheet music](https://pianobin.com/tcoal/)
