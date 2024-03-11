@@ -19,9 +19,10 @@ const Page: React.FC<Props> = ({ title, children }: Props) => {
     }
   }, []);
 
-  const titleString = title || ""
-  console.log(titleString)
-  const hideComments = ["", "Contact me"].includes(titleString)
+  const titleString = title || "";
+  const hideComments = ["", "Contact me"].includes(titleString);
+
+  const [showComments, setShowComments] = React.useState(false);
 
   return (
     <div ref={pageRef} className={styles.page}>
@@ -31,7 +32,12 @@ const Page: React.FC<Props> = ({ title, children }: Props) => {
       </div>
       {!hideComments && 
       <div className={styles.comments}>
-        <Comments postSlug={titleString} postTitle={titleString} />
+        <button className={styles.buttoncomment} onClick={() => setShowComments(!showComments)}>
+          {showComments ? 'Hide Comments' : 'Show Comments'}
+        </button>
+        {showComments && (
+          <Comments postSlug={titleString} postTitle={titleString} />
+        )}
       </div>
       }
     </div>

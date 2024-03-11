@@ -21,6 +21,8 @@ const Post: React.FC<Props> = ({ post }: Props) => {
   const { tagSlugs, slug } = post.fields;
   const { tags, title, date } = post.frontmatter;
 
+  const [showComments, setShowComments] = React.useState(false);
+
   return (
     <div className={styles.post}>
       <div className={styles.buttons}>
@@ -39,7 +41,12 @@ const Post: React.FC<Props> = ({ post }: Props) => {
       </div>
 
       <div className={styles.comments}>
-        <Comments postSlug={slug} postTitle={post.frontmatter.title} />
+        <button className={styles.buttoncomment} onClick={() => setShowComments(!showComments)}>
+          {showComments ? 'Hide Comments' : 'Show Comments'}
+        </button>
+        {showComments && (
+          <Comments postSlug={slug} postTitle={post.frontmatter.title} />
+        )}
       </div>
     </div>
   );

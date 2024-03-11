@@ -29,6 +29,30 @@
       @include margin(0, 0.5, 0, 0);
     }
   }
+
+  .buttoncomment {
+    background-color: transparent;
+    border: 1px solid var(--color-button-border);
+    border-radius: 10px;
+    color: $color-blue;
+    display: inline-block;
+    font-size: $typographic-base-font-size;
+    font-weight: normal;
+    height: $button-height;
+    line-height: $button-height;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    text-decoration: none;
+    transition: color 0.2s ease;
+    @include padding(0, 1);
+  
+    &:hover,
+    &:focus {
+      color: $color-dark-blue;
+    }
+  }
 }
 
 @include breakpoint-md {
