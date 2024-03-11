@@ -16,6 +16,7 @@
   "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
   "scripts": {
     "build": "npm run clean && gatsby build",
+    "deploy": "yarn run clean && gatsby build --prefix-paths && gh-pages -d public -b master",
     "clean": "rimraf .cache public",
     "format": "npm run format:ts && npm run format:scss",
     "format:scss": "stylelint \"src/**/*.scss\" --fix",
