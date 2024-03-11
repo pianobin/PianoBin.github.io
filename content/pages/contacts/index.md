@@ -4,28 +4,16 @@ template: "page"
 socialImage: "./photo.png"
 ---
 
-Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
+---
 
-Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
+You may create covers or remixes based on my piano tutorials, sheet music, or MIDI/audio files. You may also use the audio from my videos as background music for your own videos. Please credit my [channel](https://www.youtube.com/pianobin) when possible.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/book.jpg)
+If you create something based on my piano arrangements, please don't hesitate to show me! I would love to see your creative work.
 
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
+---
 
-## Header Level 2
+### Have any questions?
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+The best way to reach me is through email: _**shoji AT pianobin.com**_.
 
-- **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
-- Aliquam tincidunt mauris eu risus.
-- Vestibulum auctor dapibus neque.
-
-### Header Level 3
-
-Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.
-
-Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.
-
-#### Header Level 4
-
-Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est.
+You can also message me privately through [Twitter](https://www.twitter.com/pianobinmusic), [Facebook](https://www.facebook.com/pianobinmusic), or [Instagram](https://www.instagram.com/pianobinmusic) although I check these websites less frequently.
