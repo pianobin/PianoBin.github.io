@@ -1,5 +1,5 @@
 ---
-title: Patreon Members Board 09.2022
+title: Patreon Members Board (2022)
 date: "2022-09-18T18:21:29Z"
 template: "post"
 draft: false
