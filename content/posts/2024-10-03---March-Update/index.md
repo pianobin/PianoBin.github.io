@@ -5,7 +5,7 @@ template: "post"
 draft: false
 slug: "site-update-march-2024"
 category: "Website"
-description: "Some new changes!"
+description: "It's been a while! A few website updates.."
 socialImage: "./photo.png"
 ---
 
@@ -20,4 +20,4 @@ New updates also include:
 - [Persona 3 Reload sheet music](https://pianobin.com/p3r)
 - Dark mode
 
-Have a great day!  
+More arrangements to come. Thank you for the support!

@@ -119,14 +119,6 @@ export default {
     "gatsby-transformer-sharp",
     "gatsby-plugin-sharp",
     {
-      resolve: "gatsby-plugin-google-gtag",
-      options: {
-        pluginConfig: {
-          head: true,
-        },
-      },
-    },
-    {
       resolve: "gatsby-plugin-sitemap",
       options: {
         query: `
@@ -185,13 +177,6 @@ export default {
             },
           ],
         },
-      },
-    },
-    {
-      resolve: "@sentry/gatsby",
-      options: {
-        dsn: process.env.SENTRY_DSN,
-        tracesSampleRate: 1,
       },
     },
     "gatsby-plugin-image",

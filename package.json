@@ -51,8 +51,6 @@
     "@alxshelepenok/diesel": "^1.0.1241",
     "@alxshelepenok/diesel-extensions": "^1.0.1165",
     "@lmdb/lmdb-darwin-arm64": "^2.9.4",
-    "@sentry/gatsby": "^7.61.1",
-    "@sentry/tracing": "^7.103.0",
     "abab": "^2.0.6",
     "classnames": "^2.5.1",
     "disqus-react": "^1.1.5",
@@ -60,7 +58,6 @@
     "gatsby-link": "^4.25.0",
     "gatsby-plugin-catch-links": "^4.25.0",
     "gatsby-plugin-feed": "^4.25.0",
-    "gatsby-plugin-google-gtag": "^4.25.0",
     "gatsby-plugin-image": "^2.25.0",
     "gatsby-plugin-manifest": "^4.25.0",
     "gatsby-plugin-offline": "^5.25.0",
@@ -82,7 +79,8 @@
     "gh-pages": "^6.1.1",
     "prismjs": "^1.29.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "workbox-google-analytics": "^7.0.0"
   },
   "devDependencies": {
     "@alxshelepenok/eslint-config": "^1.0.426",
