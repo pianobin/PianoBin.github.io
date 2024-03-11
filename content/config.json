@@ -3,7 +3,7 @@
   "url": "https://pianobin.com",
   "subtitle": "Piano tutorials, sheet music, and arrangements.",
   "copyright": "© All rights reserved.",
-  "disqusShortname": "",
+  "disqusShortname": "pianobin",
   "postsLimit": 4,
   "pathPrefix": "/",
   "menu": [

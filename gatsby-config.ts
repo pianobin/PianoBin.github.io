@@ -190,5 +190,11 @@ export default {
         color: '#F7A046',
       },
     },
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+          shortname: `pianobin`
+      }
+    },
   ],
 };

@@ -19,5 +19,6 @@ New updates also include:
 - [TCOAL sheet music](https://pianobin.com/tcoal/)
 - [Persona 3 Reload sheet music](https://pianobin.com/p3r)
 - Dark mode
+- Disqus comments
 
 More arrangements to come. Thank you for the support!
