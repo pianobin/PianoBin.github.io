@@ -20,7 +20,7 @@ const Page: React.FC<Props> = ({ title, children }: Props) => {
   }, []);
 
   const titleString = title || "";
-  const hideComments = ["", "Contact me"].includes(titleString);
+  const hideComments = [""].includes(titleString);
 
   const [showComments, setShowComments] = React.useState(false);
 
@@ -31,7 +31,7 @@ const Page: React.FC<Props> = ({ title, children }: Props) => {
         <div className={styles.body}>{children}</div>
       </div>
       {!hideComments && 
-      <div className={styles.comments}>
+      <div>
         <button className={styles.buttoncomment} onClick={() => setShowComments(!showComments)}>
           {showComments ? 'Hide Comments' : 'Show Comments'}
         </button>
