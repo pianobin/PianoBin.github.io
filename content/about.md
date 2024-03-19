@@ -6,9 +6,9 @@ socialImage: "./photo.png"
 
 ---
 
-Thank you for visiting this corner of the internet! I have been working on piano arrangements for some of my favorite artists and soundtracks since 2018.
+Thank you for visiting my page! I have been working on piano arrangements for my favorite artists and soundtracks since 2018.
 
-I became interested in piano after discovering piano covers from YouTubers and learning how to play songs I liked from their sheet music and tutorials. My dream is to pay it forward and make piano arrangements for people around the world to learn. I also hope these arrangements can help you feel more connected to your favorite musicians, games, and films.
+I became interested in piano after discovering piano covers from YouTubers and learning how to play songs from their sheet music and tutorials. My dream is to pay it forward and make piano arrangements for people around the world to learn. I also hope these arrangements can help you feel more connected to your favorite musicians, games, and films.
 
 Have a question? [Contact me!](https://pianobin.com/contact)
 

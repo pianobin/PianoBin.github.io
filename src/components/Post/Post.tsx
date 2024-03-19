@@ -5,7 +5,6 @@ import { ThemeSwitcher } from "@/components/ThemeSwitcher";
 import type { Node } from "@/types";
 
 import { Author } from "./Author";
-import { Comments } from "./Comments";
 import { Content } from "./Content";
 import { Meta } from "./Meta";
 import { Tags } from "./Tags";
@@ -38,15 +37,6 @@ const Post: React.FC<Props> = ({ post }: Props) => {
         <Meta date={date} />
         {tags && tagSlugs && <Tags tags={tags} tagSlugs={tagSlugs} />}
         <Author />
-      </div>
-
-      <div className={styles.comments}>
-        <button className={styles.buttoncomment} onClick={() => setShowComments(!showComments)}>
-          {showComments ? 'Hide Comments' : 'Show Comments'}
-        </button>
-        {showComments && (
-          <Comments postSlug={slug} postTitle={post.frontmatter.title} />
-        )}
       </div>
     </div>
   );
