@@ -6,17 +6,15 @@ socialImage: "./photo.png"
 
 ---
 
-Thank you for visiting my page! I have been working on piano arrangements for a few of my favorite artists and soundtracks since 2018.
+Thank you for visiting my page! I have been making piano arrangements for my favorite artists and soundtracks since 2018.
 
-I became interested in piano after discovering piano covers from YouTubers and learning how to play songs from their sheet music and tutorials. It inspired me to learn how to make my own piano arrangements for people around the world to learn. I hope these arrangements can help you enjoy your favorite musicians, games, and films!
+I became interested in piano after discovering piano covers from YouTubers and learning how to play songs from printing out their sheet music and following their tutorials. Eventually I found there were more and more songs that didn't have piano arrangements online and it inspired me to create my own. Whether you are here because you enjoy listening to covers or because you want to learn songs on the piano, I hope you found this helpful!
 
-Have a question? [Contact me!](https://pianobin.com/contact)
-
----
+Have a question or message? [Contact me!](https://pianobin.com/contact)
 
 ### Selected Works
 
-I have contributed piano arrangements for various music artists and OSTs including
+I have written piano arrangements for various music artists and OSTs including
 
 #### Games
 
