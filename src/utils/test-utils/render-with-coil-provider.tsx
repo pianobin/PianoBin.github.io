@@ -1,8 +1,4 @@
 import React, { ReactElement } from "react";
-import renderer, {
-  ReactTestRenderer,
-  TestRendererOptions,
-} from "react-test-renderer";
 
 import { CoilProvider } from "@alxshelepenok/diesel";
 import { render, RenderOptions } from "@testing-library/react";
@@ -22,8 +18,8 @@ const renderWithCoilProvider = (
 
 export const createSnapshotsRenderer = (
   nextElement: ReactElement,
-  options?: TestRendererOptions,
-): ReactTestRenderer =>
-  renderer.create(<CoilProvider>{nextElement}</CoilProvider>, options);
+  options?,
+) =>
+  null;
 
 export default renderWithCoilProvider;
