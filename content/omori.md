@@ -30,6 +30,7 @@ _This sheet music is released under permission from the original composer and is
 006 Let’s Get Together Now! / [Sheet Music](/media/omori/Let's_Get_Together_Now!_PB.pdf) / [Piano Tutorial](https://youtu.be/QwndQZ9xA8k)  
 007 100 Sunny / [Sheet Music](/media/omori/100_Sunny_PB.pdf) / [Piano Tutorial](https://youtu.be/eUBkqQiX0H4)  
 008 Trouble Brewing / [Sheet Music](/media/omori/Trouble_Brewing_PB.pdf) / Piano Tutorial  
+009 Push & Shove / [Sheet Music](/media/omori/Push_and_Shove_PB.pdf) / [Piano Tutorial](https://youtu.be/_uzaD5EmR_s)  
 010 So, How’d We Do? / [Sheet Music](/media/omori/So,_How'd_We_Do_PB.pdf) / [Piano Tutorial](https://youtu.be/qJLhe7ag-es)  
 011 It’s Okay To Try Again... / [Sheet Music](/media/omori/It's_Okay_To_Try_Again..._PB.pdf) / Piano Tutorial  
 012 Trees... / [Sheet Music](/media/omori/Trees..._PB.pdf) / [Piano Tutorial](https://youtu.be/rlXTmF8APMY)  
@@ -42,14 +43,16 @@ _This sheet music is released under permission from the original composer and is
 021 Sugar Star Planetarium / [Sheet Music](/media/omori/Sugar_Star_Planetarium_PB.pdf) / [Piano Tutorial](https://youtu.be/KXD0vf3sM1M)  
 022 Lost, Then Found! / [Sheet Music](/media/omori/Lost_Then_Found_PB.pdf) / [Piano Tutorial](https://youtu.be/GVXevq9hO60)  
 023 THE VENGEANCE OF THOSE FORGOTTEN IN DARKNESS / [Sheet Music](/media/omori/THE_VENGEANCE_OF_THOSE_FORGOTTEN_IN_DARKNESS_PB.pdf) / [Piano Tutorial](https://youtu.be/aHjBAs7QeTY)  
-024 Recycling Is A Concept! / [Sheet Music](/media/omori/Recycling_Is_A_Concept!_PB.pdf) / Piano Tutorial  
+024 Recycling Is A Concept! / [Sheet Music](/media/omori/Recycling_Is_A_Concept!_PB.pdf) / [Piano Tutorial](https://youtu.be/vVtqvWZxTZI)  
 025 Lovesick - 80,000 Lightyears / [Sheet Music](/media/omori/Lovesick_-_80000_Lightyears_PB.pdf) / [Piano Tutorial](https://youtu.be/NxBslYQvqSE)  
 027 Three Bar Logos / [Sheet Music](/media/omori/Three_Bar_Logos_PB.pdf) / [Piano Tutorial](https://youtu.be/j7v5XAC0JDo)  
 029 Good For Health, Bad For Imagination / [Sheet Music](/media/omori/Good_For_Health_Bad_For_Imagination_PB.pdf) / [Piano Tutorial](https://youtu.be/1lDdwpkyofs)  
 030 Snow Forest - A Single Flower Blooms / [Sheet Music](/media/omori/Snow_Forest_-_A_Single_Flower_Blooms_PB.pdf) / [Piano Tutorial](https://youtu.be/Xg-sV6q-g8Q)  
+031 White Surf Style 6 / [Sheet Music](/media/omori/White_Surf_Style_6_PB.pdf) / [Piano Tutorial](https://youtu.be/bs2vYqnDv1c)  
 032 Stardust Diving / [Sheet Music](/media/omori/Stardust_Diving_PB.pdf) / [Piano Tutorial](https://youtu.be/umXj4efcWw0)  
 034 A Rose By Any Other Name… / [Sheet Music](/media/omori/A_Rose_By_Any_Other_Name..._PB.pdf) / [Piano Tutorial](https://youtu.be/Rq7zq3XnBNQ)  
 036 CHAOS ASSEMBLY / [Sheet Music](/media/omori/CHAOS_ASSEMBLY_PB.pdf) / [Piano Tutorial](https://youtu.be/6EkmnQ0lick)  
+037 The Elegance of the Mysterious and Distant / [Sheet Music](/media/omori/The_Elegance_of_the_Mysterious_and_Distant_PB.pdf) / [Piano Tutorial](https://youtu.be/sL1LQwcmBNY)  
 038 Space Boyfriend’s Tape - I Want Nothing More / [Sheet Music](/media/omori/Space_Boyfriend's_Tape_-_I_Want_Nothing_More_PB.pdf) / [Piano Tutorial](https://youtu.be/rSArEwBzx1M)  
 039 Trouble - NEVER/ALWAYS / [Sheet Music](/media/omori/Trouble_-_NEVER_ALWAYS_PB.pdf) / [Piano Tutorial](https://youtu.be/LUlTvAeZp2Q)  
 040 You Were Wrong. Go Back. / [Sheet Music](/media/omori/You_Were_Wrong._Go_Back_PB.pdf) / [Piano Tutorial](https://youtu.be/_CvyPkjs-m0)  
@@ -64,9 +67,11 @@ _This sheet music is released under permission from the original composer and is
 052 Take A Load Off / [Sheet Music](/media/omori/Take_A_Load_Off_PB.pdf) / [Piano Tutorial](https://youtu.be/pQEf2jyv6v0)  
 053 I Prefer My Pizza 90% Grease / [Sheet Music](/media/omori/I_Prefer_My_Pizza_90_Grease_PB.pdf) / [Piano Tutorial](https://youtu.be/YnAp_POQRgU)  
 054 Fresh…ish… / [Sheet Music](/media/omori/Fresh...ish..._PB.pdf) / [Piano Tutorial](https://youtu.be/cDp43P8Dhmg)  
+056 I Think My Dad Shops Here... / [Sheet Music](/media/omori/I_Think_My_Dad_Shops_Here_PB.pdf) / [Piano Tutorial](https://youtu.be/Modob8-wcFo)  
 058 Cram It Wad / [Sheet Music](/media/omori/Cram_It_Wad_PB.pdf) / [Piano Tutorial](https://youtu.be/g0hhno9pbow)  
 060 It Means Everything. / [Sheet Music](/media/omori/It_Means_Everything_PB.pdf) / [Piano Tutorial](https://youtu.be/9wnv9xoeo0k)  
 061 See You Tomorrow / [Sheet Music](/media/omori/See_You_Tomorrow_PB.pdf) / [Piano Tutorial](https://youtu.be/OlMKXdh46rg)  
+062 A Home For Flowers (Empty) / [Sheet Music](/media/omori/A_Home_For_Flowers_Empty_PB.pdf) / [Piano Tutorial](https://youtu.be/n6PLic2EcVM)  
 063 Help Me / [Sheet Music](/media/omori/Help_Me_PB.pdf) / [Piano Tutorial](https://youtu.be/ii2oR82GesY)  
 067 The Heart of the Desert / [Sheet Music](/media/omori/The_Heart_of_the_Desert_PB.pdf) / [Piano Tutorial](https://youtu.be/rmc8TH4itQ4)  
 068 Puddles / [Sheet Music](/media/omori/Puddles_PB.pdf) / [Piano Tutorial](https://youtu.be/ztcvhqdl5bs)  
@@ -96,6 +101,7 @@ _This sheet music is released under permission from the original composer and is
 097 Origin / [Sheet Music](/media/omori/Origin_PB.pdf) / [Piano Tutorial](https://youtu.be/lDDKCpGVTqU)  
 100 Not-So-Empty-House / [Sheet Music](/media/omori/Not-So-Empty-House_PB.pdf) / [Piano Tutorial](https://youtu.be/evqBoOggW08)  
 101 It’s A Ghost Dance / [Sheet Music](/media/omori/It's_A_Ghost_Dance_PB.pdf) / [Piano Tutorial](https://youtu.be/8cjVbpOa4lA)  
+102 Room For 4 / [Sheet Music](/media/omori/Room_For_4_PB.pdf) / [Piano Tutorial](https://youtu.be/dIqMDj1MW_w)  
 103 Gator Gambol / [Sheet Music](/media/omori/Gator_Gambol_PB.pdf) / [Piano Tutorial](https://youtu.be/tn7_4yq4aO4)  
 105 Jawbreaker / [Sheet Music](/media/omori/Jawbreaker_PB.pdf) / [Piano Tutorial](https://youtu.be/Vc6weYfhXy4)  
 106 GOLDENVENGEANCE / [Sheet Music](/media/omori/GOLDENVENGEANCE_PB.pdf) / [Piano Tutorial](https://youtu.be/_or9TF2Re_E)  
@@ -112,9 +118,14 @@ _This sheet music is released under permission from the original composer and is
 124 Flouring With You / [Sheet Music](/media/omori/Flouring_With_You_PB.pdf) / [Piano Tutorial](https://youtu.be/Ri-qciO6NO8)  
 125 BREADY STEADY GO / [Sheet Music](/media/omori/BREADY_STEADY_GO_PB.pdf) / [Piano Tutorial](https://youtu.be/hgbbOPc8nuM)  
 127 Remember To Be Patient / [Sheet Music](/media/omori/Remember_To_Be_Patient_PB.pdf) / [Piano Tutorial](https://youtu.be/_46mOFGX0X0)  
+129 You Cannot Go Back / [Sheet Music](/media/omori/You_Cannot_Go_Back_PB.pdf) / [Piano Tutorial](https://youtu.be/B5eadYw6-Eo)  
+130 Tee-hee Time / [Sheet Music](/media/omori/Tee-hee_Time_PB.pdf) / [Piano Tutorial](https://youtu.be/2fcVWti72Xc)  
 131 Welcome Again. / [Sheet Music](/media/omori/Welcome_Again_PB.pdf) / [Piano Tutorial](https://youtu.be/w84qVFN7ToQ)  
+132 Fleur / [Sheet Music](/media/omori/Fleur_PB.pdf) / [Piano Tutorial](https://youtu.be/L1ZHm6AKGN8)  
+133 Distance / [Sheet Music](/media/omori/Distance_PB.pdf) / [Piano Tutorial](https://youtu.be/Li4u0kSpPc4)  
 136 Glade / [Sheet Music](/media/omori/Glade_PB.pdf) / [Piano Tutorial](https://youtu.be/iHy-WKR4S8s)  
 137 56-12-2 / [Sheet Music](/media/omori/56-12-2_PB.pdf) / [Piano Tutorial](https://youtu.be/wvkWKorzQCo)  
+139 August/Water / [Sheet Music](/media/omori/August-Water_PB.pdf) / [Piano Tutorial](https://youtu.be/GxZlHRJ1Fgs)  
 144 Come and See / [Sheet Music](/media/omori/Come_and_See_PB.pdf) / [Piano Tutorial](https://youtu.be/IHdUcAApNGQ)  
 145 Friends. / [Sheet Music](/media/omori/Friends_PB.pdf) / [Piano Tutorial](https://youtu.be/zd2unlLxYrE)  
 147 Orchard / [Sheet Music](/media/omori/Orchard_PB.pdf) / [Piano Tutorial](https://youtu.be/lW8hzzw5M4E)  
@@ -129,6 +140,7 @@ _This sheet music is released under permission from the original composer and is
 170 Try Again Little Brother / [Sheet Music](/media/omori/Try_Again_Little_Brother_PB.pdf) / [Piano Tutorial](https://youtu.be/eMix1LKse8Q)  
 172 DUET / [Piano Sheet Music](/media/omori/DUET_PB.pdf) / [Piano + Violin Sheet Music](/media/omori/DUET_violin_piano_PB.pdf) / [Piano Tutorial](https://youtu.be/q2PGQBoei2M)  
 175 Clean Slate / [Sheet Music](/media/omori/Clean_Slate_PB.pdf) / [Piano Tutorial](https://youtu.be/5VNgnakqUKQ)  
+176 The Truth / [Sheet Music](/media/omori/The_Truth_PB.pdf) / [Piano Tutorial](https://youtu.be/-VOssQXRWVM)  
 177 Good Morning / [Sheet Music](/media/omori/Good_Morning_PB.pdf) / [Piano Tutorial](https://youtu.be/Cf3S6rgtc3g)  
 178 My Time / [Sheet Music](/media/omori/My_Time_v2_PB.pdf) / [Piano Tutorial](https://youtu.be/l4uHQG19dF8)
 
@@ -143,4 +155,4 @@ OMORI Switch Announcement Trailer OST / [Sheet Music](/media/omori/OMORI_Switch_
 
 **_Find Pianobin on [YouTube](https://www.youtube.com/pianobin)._**
 
-_Last updated 2024-02-22_
+_Last updated 2024-06-30_
