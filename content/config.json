@@ -46,6 +46,10 @@
     {
       "label": "Persona 3 Reload",
       "path": "/p3r"
+    },
+    {
+      "label": "Metaphor: ReFantazio",
+      "path": "/metaphor"
     }
   ],
   "author": {
