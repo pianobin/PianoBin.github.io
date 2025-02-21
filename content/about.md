@@ -43,9 +43,11 @@ Legends of Runeterra
 Library of Ruina  
 Life is Strange 2  
 Lovely Planet  
+Metaphor: ReFantazio  
 Minecraft  
 NEEDY STREAMER OVERLOAD  
 Octopath Traveler  
+OFF  
 OMORI  
 Paper Lily  
 Persona 3 Reload  
@@ -80,6 +82,7 @@ A Whisker Away
 Children of the Sea  
 Flavors of Youth  
 Josee, the Tiger and the Fish  
+Look Back  
 Mary and the Witch's Flower  
 The Dangers in My Heart  
 Weathering With You
@@ -136,6 +139,7 @@ Seven Lions
 SHY Martin  
 Skrillex  
 Snail's House  
+spellcasting  
 SYML  
 Toby Fox  
 Utada Hikaru  

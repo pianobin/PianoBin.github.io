@@ -5,7 +5,7 @@ template: "post"
 draft: false
 slug: "site-update-march-2024"
 category: "Website"
-description: "It's been a while! A few website updates.."
+description: "A few updates!"
 socialImage: "./photo.png"
 ---
 

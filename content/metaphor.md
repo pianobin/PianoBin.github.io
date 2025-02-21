@@ -20,14 +20,20 @@ Below you will find sheet music from previous Metaphor: ReFantazio piano arrange
 
 ##### DISC 1
 
-07 Hero's Awakening (英雄の目覚め) / [Sheet Music](/media/metaphor/heros_awakening_PB.pdf) / [Piano Tutorial](https://youtu.be/1vNvUdlTsog)  
-09 Ode to Heroes (英雄たちに捧ぐ詩) / [Sheet Music](/media/metaphor/ode_to_heroes_PB.pdf) / [Piano Tutorial](https://youtu.be/aPzwCETdEcg)  
-11 Warriors in Arms (戦う者たちよ) / [Sheet Music](/media/metaphor/warriors_in_arms_PB.pdf) / [Piano Tutorial](https://youtu.be/D8JdipfeHzA)  
-23 Warriors in Valour (猛き者たちよ) / [Sheet Music](/media/metaphor/warriors_in_valour_PB.pdf) / [Piano Tutorial](https://youtu.be/WFoxxsSmc3o)
+13 Memories (想い出) / [Sheet Music](/media/metaphor/memories_PB.pdf) / [Piano Tutorial](https://youtu.be/aNZTANjUEeY)  
+17 Hero's Awakening (英雄の目覚め) / [Sheet Music](/media/metaphor/heros_awakening_PB.pdf) / [Piano Tutorial](https://youtu.be/1vNvUdlTsog)  
+20 Ode to Heroes (英雄たちに捧ぐ詩) / [Sheet Music](/media/metaphor/ode_to_heroes_PB.pdf) / [Piano Tutorial](https://youtu.be/aPzwCETdEcg)  
+22 Warriors in Arms (戦う者たちよ) / [Sheet Music](/media/metaphor/warriors_in_arms_PB.pdf) / [Piano Tutorial](https://youtu.be/D8JdipfeHzA)
 
 ##### DISC 2
 
-47 You Face Louis Guiabern (我が名はルイ・グイアベルン) / [Sheet Music](/media/metaphor/you_face_louis_guiabern_PB.pdf) / [Piano Tutorial](https://youtu.be/ZVCObwRITBw)
+40 Lament (愁嘆) / [Sheet Music](/media/metaphor/lament_PB.pdf) / [Piano Tutorial](https://youtu.be/vwRTgM7p3kE)  
+54 Warriors in Valour (猛き者たちよ) / [Sheet Music](/media/metaphor/warriors_in_valour_PB.pdf) / [Piano Tutorial](https://youtu.be/WFoxxsSmc3o)
+
+##### DISC 4
+
+94 You Face Louis Guiabern (我が名はルイ・グイアベルン) / [Sheet Music](/media/metaphor/you_face_louis_guiabern_PB.pdf) / [Piano Tutorial](https://youtu.be/ZVCObwRITBw)  
+109 Handshake (繋がる手) / [Sheet Music](/media/metaphor/handshake_PB.pdf) / [Piano Tutorial](https://youtu.be/9bGLiPKXv2c)
 
 ---
 
