@@ -113,7 +113,6 @@ export default {
                 color: "lightgray",
                 background: "transparent",
               },
-              sizes: "(max-width: 960px) 100vw, 960px",
             },
           },
           {
