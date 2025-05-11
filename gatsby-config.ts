@@ -102,6 +102,18 @@ export default {
             options: {
               maxWidth: 960,
               withWebp: true,
+              linkImagesToOriginal: false,
+              showCaptions: false,
+              backgroundColor: "transparent",
+              quality: 90,
+              withAvif: true,
+              loading: "lazy",
+              wrapperStyle: "margin-bottom: 1.0725rem",
+              tracedSVG: {
+                color: "lightgray",
+                background: "transparent",
+              },
+              sizes: "(max-width: 960px) 100vw, 960px",
             },
           },
           {

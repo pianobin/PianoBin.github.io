@@ -12,6 +12,8 @@ Hi there, thank you for visiting my corner of the internet!
 My name is **Pianobin**, and I have been writing piano arrangements for more than 7 years.  
 I cover all kinds of music, but I focus on video game and animated film OSTs!
 
+---
+
 ## FAQ
 
 **Do you take requests?**
