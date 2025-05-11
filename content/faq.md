@@ -19,7 +19,7 @@ I cover all kinds of music, but I focus on video game and animated film OSTs!
 I read all requests and many of my past arrangements have come from requests! If you are here then chances are we have similar interests so I would love to hear what you want me to cover. However please note the following:
 
 - Does the song already have many piano covers? If the song is too popular then I am less likely to arrange it because there are many other songs that deserve a piano arrangement :)
-- I try to cover songs from media I am familiar with. If you suggest a song from video game or movie I haven't heard of then I will need some time to check it out first before deciding!
+- I try to cover songs from media I am familiar with. If you suggest a song from a video game or movie I haven't heard of then I will need some time to check it out first before deciding!
 - Lastly, I am only one person so I am not able to do everyone's request!
 
 **Can I use your arrangement for my video?**

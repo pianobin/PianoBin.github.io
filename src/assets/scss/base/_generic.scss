@@ -78,15 +78,13 @@ img {
 }
 
 hr {
-  background-image: linear-gradient(
-    to bottom,
-    transparent 1px,
-    transparent 11px,
-    $color-dark 11px,
-    $color-dark 15px,
-    transparent 15px,
-    transparent 26px
-  );
+  background-image: linear-gradient(to bottom,
+      transparent 1px,
+      transparent 11px,
+      $color-dark 11px,
+      $color-dark 15px,
+      transparent 15px,
+      transparent 26px);
   background-size: 100% 26px;
   border: 0;
   color: var(--color-typographic-base-font);
@@ -94,6 +92,16 @@ hr {
   height: 26px;
   margin: 52px auto;
   width: 100px;
+}
+
+html.dark hr {
+  background-image: linear-gradient(to bottom,
+      transparent 1px,
+      transparent 11px,
+      $color-white-cloud 11px,
+      $color-white-cloud 15px,
+      transparent 15px,
+      transparent 26px);
 }
 
 a {
@@ -150,6 +158,7 @@ figcaption {
 }
 
 @include breakpoint-sm {
+
   figure.float-left,
   figure.float-right {
     max-width: 310px;
