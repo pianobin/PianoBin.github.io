@@ -38,11 +38,16 @@ const createPages: GatsbyNode["createPages"] = async ({ graphql, actions }) => {
   });
 
   const pages = await queries.pagesQuery(graphql);
+  let hasCustomIndex = false;
 
   pages.forEach((edge) => {
     const { node } = edge;
 
     if (node?.frontmatter?.template === "page" && node?.fields?.slug) {
+      // Check if this is our custom index page
+      if (node?.frontmatter?.slug === "/") {
+        hasCustomIndex = true;
+      }
       createPage({
         path: node?.frontmatter?.slug || node.fields.slug,
         component: constants.templates.pageTemplate,
@@ -131,19 +136,22 @@ const createPages: GatsbyNode["createPages"] = async ({ graphql, actions }) => {
     }
   });
 
-  const path = constants.routes.indexRoute;
-  const template = constants.templates.indexTemplate;
-  const posts = await queries.postsQuery(graphql);
-  const total = Math.ceil((posts?.edges?.length ?? 0) / postsLimit);
+  // Only create the default index page if we don't have a custom one
+  if (!hasCustomIndex) {
+    const path = constants.routes.indexRoute;
+    const template = constants.templates.indexTemplate;
+    const posts = await queries.postsQuery(graphql);
+    const total = Math.ceil((posts?.edges?.length ?? 0) / postsLimit);
 
-  for (let page = 0; page < total; page += 1) {
-    createWithPagination({
-      limit: postsLimit,
-      template,
-      total,
-      page,
-      path,
-    });
+    for (let page = 0; page < total; page += 1) {
+      createWithPagination({
+        limit: postsLimit,
+        template,
+        total,
+        page,
+        path,
+      });
+    }
   }
 };
 

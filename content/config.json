@@ -8,16 +8,8 @@
   "pathPrefix": "/",
   "menu": [
     {
-      "label": "Articles",
+      "label": "<> Start Here <>",
       "path": "/"
-    },
-    {
-      "label": "About me",
-      "path": "/about"
-    },
-    {
-      "label": "Contact me",
-      "path": "/contact"
     },
     {
       "label": "OMORI",
