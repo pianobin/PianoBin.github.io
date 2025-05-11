@@ -229,3 +229,12 @@ figcaption {
 .gatsby-resp-image-image[src]+.gatsby-resp-image-wrapper::after {
   opacity: 0;
 }
+
+.airtable-container {
+  margin: 20px 0;
+  width: 100%;
+
+  @include breakpoint-md {
+    width: 150%;
+  }
+}

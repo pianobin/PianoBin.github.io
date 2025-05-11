@@ -38,7 +38,7 @@ Note: If you plan to create commercial works please make sure to acquire the rig
 I have organized some of my recent projects in the sidebar of this website, but a lot of my older projects exist in various other pages outside of this website. 
 Below is an Airtable with sheet music links to all previous arrangements I have made. It also includes additional links to audio and MIDI files available on Patreon.
 
-<div style="margin: 20px 0; width: 150%;">
+<div class="airtable-container">
 <iframe class="airtable-embed" src="https://airtable.com/embed/appfWHDc7lMbK5Nqx/shr75QTz5ASYVk2Fk?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 </div>
 
