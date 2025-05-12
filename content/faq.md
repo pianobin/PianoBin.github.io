@@ -9,9 +9,6 @@ slug: "/"
 .faq-question {
     font-weight: 600;
     margin: 1.5rem 0 0 0;
-    padding-bottom: 0.5rem;
-    border-bottom: 1px solid;
-    display: inline-block;
 }
 </style>
 
