@@ -42,6 +42,10 @@
     {
       "label": "Metaphor: ReFantazio",
       "path": "/metaphor"
+    },
+    {
+      "label": "DELTARUNE",
+      "path": "/deltarune"
     }
   ],
   "author": {
