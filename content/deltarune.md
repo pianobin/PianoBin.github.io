@@ -26,7 +26,9 @@ Below you will find sheet music from previous Deltarune piano arrangements.
 
 49 Dark Sanctuary / [Sheet Music](/media/deltarune/Dark_Sanctuary_PB.pdf) / [Piano Tutorial](https://youtu.be/JmC4rkiOveA)  
 50 From Now On (Battle 2) / [Sheet Music](/media/deltarune/From_Now_On_Battle_2_PB.pdf) / [Piano Tutorial](https://youtu.be/YcT8s1lTPSE)  
+53 A DARK ZONE / [Sheet Music](/media/deltarune/A_DARK_ZONE_PB.pdf) / [Piano Tutorial](https://youtu.be/HvHAnByTIP8)  
 58 Hammer of Justice / [Sheet Music](/media/deltarune/Hammer_of_Justice_PB.pdf) / [Piano Tutorial](https://youtu.be/lBjSlyIe7PE)  
+64 Dark Place / [Sheet Music](/media/deltarune/Dark_Place_PB.pdf) / [Piano Tutorial](https://youtu.be/KdhxDcUgtR0)  
 72 Neverending Night / [Sheet Music](/media/deltarune/Neverending_Night_PB.pdf) / [Piano Tutorial](https://youtu.be/2pR0i_LADgA)
 
 ---
