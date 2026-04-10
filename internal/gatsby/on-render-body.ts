@@ -19,6 +19,12 @@ const onRenderBody = ({
       src: `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`,
       crossOrigin: "anonymous",
     }),
+    React.createElement("script", {
+      key: "goatcounter",
+      "data-goatcounter": "https://pianobin.goatcounter.com/count",
+      async: true,
+      src: "//gc.zgo.at/count.js",
+    }),
   ]);
   setPreBodyComponents([
     React.createElement("script", {
