@@ -14,7 +14,6 @@ import * as styles from "./PageTemplate.module.scss";
 
 // Replace with your AdSense ad slot IDs from your AdSense dashboard
 const AD_SLOT_TOP = "1957582132";
-const AD_SLOT_1 = "8947311137";
 const AD_SLOT_2 = "7634229463";
 const AD_SLOT_BOTTOM = "1634148508";
 
@@ -43,7 +42,6 @@ const PageTemplate: React.FC<Props> = ({ data }: Props) => {
             <React.Fragment key={i}>
               <div dangerouslySetInnerHTML={{ __html: part }} />
               {i < parts.length - 1 && <hr />}
-              {i === 0 && <AdSense slot={AD_SLOT_1} />}
               {i === 2 && parts.length > 3 && <AdSense slot={AD_SLOT_2} />}
             </React.Fragment>
           ))
