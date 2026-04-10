@@ -1,5 +1,8 @@
 import React, { useState } from "react";
 
+import { Link } from "gatsby";
+
+import { Image } from "@/components/Image";
 import { ThemeSwitcher } from "@/components/ThemeSwitcher";
 import { useSiteMetadata } from "@/hooks";
 
@@ -34,6 +37,9 @@ const Sidebar = ({ isIndex }: Props) => {
           </span>
           <span className={styles.hamburgerLabel}>Menu</span>
         </button>
+        <Link to="/" className={styles.mobileLogo}>
+          <Image alt={author.name} path={author.photo} className={styles.mobileLogoImage} />
+        </Link>
         <div className={styles.mobileTheme}>
           <ThemeSwitcher />
         </div>
