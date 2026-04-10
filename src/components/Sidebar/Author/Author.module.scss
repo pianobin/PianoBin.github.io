@@ -43,4 +43,12 @@
     justify-content: space-between;
     @include margin(0.5, 0, 0.5, 0);
   }
+
+  .themeSwitcherDesktop {
+    display: none;
+
+    @include breakpoint-sm {
+      display: flex;
+    }
+  }
 }

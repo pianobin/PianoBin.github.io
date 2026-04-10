@@ -1,10 +1,84 @@
 @import "../../assets/scss/mixins";
+@import "../../assets/scss/variables";
+
+.mobileHeader {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 28px 16px 0;
+}
+
+.mobileTheme {
+  align-items: center;
+  display: flex;
+}
+
+.hamburger {
+  align-items: center;
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  padding: 0;
+}
+
+.hamburgerIcon {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  height: 20px;
+  justify-content: space-between;
+  width: 28px;
+
+  span {
+    background: $color-dark;
+    border-radius: 2px;
+    display: block;
+    height: 2px;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+    width: 100%;
+  }
+}
+
+.hamburgerLabel {
+  color: $color-dark;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+:global(.dark) {
+  .hamburgerIcon span {
+    background: $color-white;
+  }
+
+  .hamburgerLabel {
+    color: $color-white;
+  }
+}
+
+.hamburgerOpen {
+  .hamburgerIcon {
+    span:nth-child(1) {
+      transform: translateY(9px) rotate(45deg);
+    }
+    span:nth-child(2) {
+      opacity: 0;
+    }
+    span:nth-child(3) {
+      transform: translateY(-9px) rotate(-45deg);
+    }
+  }
+}
 
 .sidebar {
   width: 100%;
 
   .inner {
     @include padding(1, 0.75, 0);
+    display: none;
     position: relative;
 
     &:after {
@@ -17,14 +91,23 @@
       );
     }
   }
+
+  .innerOpen {
+    display: block;
+  }
 }
 
 @include breakpoint-sm {
+  .mobileHeader {
+    display: none;
+  }
+
   .sidebar {
     lost-column: 5/12;
 
     .inner {
       @include padding(1.25, 0.75, 0);
+      display: block;
 
       &:after {
         bottom: 0;

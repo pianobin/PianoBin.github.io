@@ -13,15 +13,10 @@ const Page: React.FC<Props> = ({ title, children }: Props) => {
   const pageRef = useRef<Nullable<HTMLDivElement>>(null);
 
   useEffect(() => {
-    if (pageRef.current) {
+    if (pageRef.current && window.innerWidth >= 685) {
       pageRef.current.scrollIntoView();
     }
   }, []);
-
-  const titleString = title || "";
-  const hideComments = [""].includes(titleString);
-
-  const [showComments, setShowComments] = React.useState(false);
 
   return (
     <div ref={pageRef} className={styles.page}>
