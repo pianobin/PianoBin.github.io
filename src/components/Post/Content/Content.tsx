@@ -8,6 +8,7 @@ import * as styles from "./Content.module.scss";
 const AD_SLOT_TOP = "1957582132";
 const AD_SLOT_1 = "8947311137";
 const AD_SLOT_2 = "7634229463";
+const AD_SLOT_BOTTOM = "1634148508";
 
 interface Props {
   title: string;
@@ -47,6 +48,8 @@ const Content: React.FC<Props> = ({ body, title }: Props) => {
           <div dangerouslySetInnerHTML={{ __html: body }} />
         )}
       </div>
+      <p className={styles.adMessage}>Ads help support me in creating more content — thank you!</p>
+      <AdSense slot={AD_SLOT_BOTTOM} />
     </div>
   );
 };
