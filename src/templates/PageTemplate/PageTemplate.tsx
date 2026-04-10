@@ -36,7 +36,7 @@ const PageTemplate: React.FC<Props> = ({ data }: Props) => {
     <Layout>
       <Sidebar />
       <Page title={title}>
-        <p className={styles.adMessage}>Ads help support me in creating more content - thank you for understanding!</p>
+        <p className={styles.adMessage}>Website ads are kept minimal and help support site costs - thank you for understanding!</p>
         <AdSense slot={AD_SLOT_TOP} format="horizontal" />
         {hasAds ? (
           parts.map((part, i) => (

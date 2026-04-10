@@ -21,7 +21,7 @@ const Content: React.FC<Props> = ({ body, title }: Props) => {
 
   return (
     <div className={styles.content}>
-      <p className={styles.adMessage}>Ads help support me in creating more content - thank you for understanding!</p>
+      <p className={styles.adMessage}>Website ads are kept minimal and help support site costs - thank you for understanding!</p>
       <AdSense slot={AD_SLOT_TOP} format="horizontal" />
       <h1 className={styles.title}>{title}</h1>
       <div className={styles.body}>

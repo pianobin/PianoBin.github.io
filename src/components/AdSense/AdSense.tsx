@@ -15,8 +15,8 @@ interface Props {
 }
 
 const MIN_HEIGHTS: Record<string, number> = {
-  horizontal: 90,
-  auto: 280,
+  horizontal: 100,
+  auto: 300,
 };
 
 const AdSense: React.FC<Props> = ({ slot, format = "auto" }) => {
