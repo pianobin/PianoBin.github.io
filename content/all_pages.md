@@ -29,7 +29,7 @@ Links to all sheet music pages.
 
 ### MISC
 
-- [Other Sheet Music](/other) — Smaller series/individual arrangements
+- [Other Sheet Music](/other) — Other random sheets
 
 ---
 

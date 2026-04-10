@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Home"
 template: "page"
 socialImage: "./photo.png"
 slug: "/"
