@@ -43,7 +43,7 @@ const PageTemplate: React.FC<Props> = ({ data }: Props) => {
       <Sidebar />
       <Page title={title}>
         {renderedAds.has(AD_SLOT_TOP) && (
-          <p className={styles.adMessage}>Ads help support me in creating more content — thank you!</p>
+          <p className={styles.adMessage}>Ads help support me in creating more content - thank you for understanding!</p>
         )}
         <AdSense slot={AD_SLOT_TOP} format="horizontal" onRender={() => handleAdRender(AD_SLOT_TOP)} />
         {hasAds ? (
@@ -52,28 +52,15 @@ const PageTemplate: React.FC<Props> = ({ data }: Props) => {
               <div dangerouslySetInnerHTML={{ __html: part }} />
               {i < parts.length - 1 && <hr />}
               {i === 0 && (
-                <>
-                  {renderedAds.has(AD_SLOT_1) && (
-                    <p className={styles.adMessage}>Ads help support me in creating more content — thank you!</p>
-                  )}
-                  <AdSense slot={AD_SLOT_1} onRender={() => handleAdRender(AD_SLOT_1)} />
-                </>
+                <AdSense slot={AD_SLOT_1} onRender={() => handleAdRender(AD_SLOT_1)} />
               )}
               {i === 2 && parts.length > 3 && (
-                <>
-                  {renderedAds.has(AD_SLOT_2) && (
-                    <p className={styles.adMessage}>Ads help support me in creating more content — thank you!</p>
-                  )}
-                  <AdSense slot={AD_SLOT_2} onRender={() => handleAdRender(AD_SLOT_2)} />
-                </>
+                <AdSense slot={AD_SLOT_2} onRender={() => handleAdRender(AD_SLOT_2)} />
               )}
             </React.Fragment>
           ))
         ) : (
           <div dangerouslySetInnerHTML={{ __html: body }} />
-        )}
-        {renderedAds.has(AD_SLOT_BOTTOM) && (
-          <p className={styles.adMessage}>Ads help support me in creating more content — thank you!</p>
         )}
         <AdSense slot={AD_SLOT_BOTTOM} onRender={() => handleAdRender(AD_SLOT_BOTTOM)} />
       </Page>
