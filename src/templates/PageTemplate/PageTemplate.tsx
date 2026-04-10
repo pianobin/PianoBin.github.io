@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 
 import { graphql } from "gatsby";
 
@@ -32,37 +32,25 @@ const PageTemplate: React.FC<Props> = ({ data }: Props) => {
   const parts = body.split(/<hr\s*\/?>/i);
   const hasAds = parts.length > 1;
 
-  const [renderedAds, setRenderedAds] = useState<Set<string>>(new Set());
-
-  const handleAdRender = (adSlot: string) => {
-    setRenderedAds((prev) => new Set(prev).add(adSlot));
-  };
-
   return (
     <Layout>
       <Sidebar />
       <Page title={title}>
-        {renderedAds.has(AD_SLOT_TOP) && (
-          <p className={styles.adMessage}>Ads help support me in creating more content - thank you for understanding!</p>
-        )}
-        <AdSense slot={AD_SLOT_TOP} format="horizontal" onRender={() => handleAdRender(AD_SLOT_TOP)} />
+        <p className={styles.adMessage}>Ads help support me in creating more content - thank you for understanding!</p>
+        <AdSense slot={AD_SLOT_TOP} format="horizontal" />
         {hasAds ? (
           parts.map((part, i) => (
             <React.Fragment key={i}>
               <div dangerouslySetInnerHTML={{ __html: part }} />
               {i < parts.length - 1 && <hr />}
-              {i === 0 && (
-                <AdSense slot={AD_SLOT_1} onRender={() => handleAdRender(AD_SLOT_1)} />
-              )}
-              {i === 2 && parts.length > 3 && (
-                <AdSense slot={AD_SLOT_2} onRender={() => handleAdRender(AD_SLOT_2)} />
-              )}
+              {i === 0 && <AdSense slot={AD_SLOT_1} />}
+              {i === 2 && parts.length > 3 && <AdSense slot={AD_SLOT_2} />}
             </React.Fragment>
           ))
         ) : (
           <div dangerouslySetInnerHTML={{ __html: body }} />
         )}
-        <AdSense slot={AD_SLOT_BOTTOM} onRender={() => handleAdRender(AD_SLOT_BOTTOM)} />
+        <AdSense slot={AD_SLOT_BOTTOM} />
       </Page>
     </Layout>
   );
