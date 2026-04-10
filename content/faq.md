@@ -14,7 +14,7 @@ slug: "/"
 
 ## Welcome to pianobin's sheet music collection!
 
-Hi there, thank you for visiting my corner of the internet!  
+Hi there, thank you for visiting my corner of the internet!
 
 My name is **Pianobin**, and I have been writing piano arrangements for more than 7 years.  
 I cover all kinds of music, but I focus on video game and animated film OSTs!
@@ -34,7 +34,7 @@ I read all requests and many of my past arrangements have come from requests! If
 <div class="faq-question">Can I use your arrangement for my video?</div>
 
 Yes!  
-You may create covers or remixes using my piano tutorials, sheet music, or MIDI files as reference. You may also use the audio from my videos as background music for your own videos. Please credit me if possible!  
+You may create covers or remixes using my piano tutorials, sheet music, or MIDI files as reference. You may also use the audio from my videos as background music for your own videos. Please credit me if possible!
 
 If you create something based on my piano arrangements, please don't hesitate to show me! I would love to see your creative work.
 
@@ -42,7 +42,7 @@ Note: If you plan to create commercial works please make sure to acquire the rig
 
 <div class="faq-question">Where can I find the sheet music for X arrangement?</div>
 
-I have organized some of my recent projects in the sidebar of this website, but a lot of my older projects exist in various other places outside of this website. 
+I have organized some of my recent projects in the sidebar of this website, but a lot of my older projects exist in various other places outside of this website.
 Below is an Airtable with sheet music links to all previous arrangements I have made.
 
 <div class="airtable-container">

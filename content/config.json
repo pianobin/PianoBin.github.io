@@ -46,6 +46,10 @@
     {
       "label": "DELTARUNE",
       "path": "/deltarune"
+    },
+    {
+      "label": "<> More Sheet Music <>",
+      "path": "/all_pages"
     }
   ],
   "author": {
