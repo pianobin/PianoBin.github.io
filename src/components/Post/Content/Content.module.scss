@@ -60,6 +60,14 @@
       max-width: 100%;
     }
   }
+
+  .adMessage {
+    font-size: $typographic-base-font-size * 0.85;
+    margin-bottom: 0.25rem;
+    margin-top: 1rem;
+    opacity: 0.6;
+    text-align: center;
+  }
 }
 
 @include breakpoint-md {
