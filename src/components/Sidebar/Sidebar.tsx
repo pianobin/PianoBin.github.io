@@ -26,7 +26,10 @@ const Sidebar = ({ isIndex }: Props) => {
       <div className={styles.mobileHeader}>
         <button
           className={`${styles.hamburger} ${isOpen ? styles.hamburgerOpen : ""}`}
-          onClick={() => setIsOpen(!isOpen)}
+          onClick={() => {
+            if (!isOpen) window.scrollTo({ top: 0, behavior: "smooth" });
+            setIsOpen(!isOpen);
+          }}
           aria-label="Toggle menu"
           aria-expanded={isOpen}
         >
