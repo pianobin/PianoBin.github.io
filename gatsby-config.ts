@@ -165,6 +165,18 @@ export default {
       },
     },
     {
+      resolve: "gatsby-plugin-google-gtag",
+      options: {
+        trackingIds: [
+          "G-01VQQ9ET0C",
+        ],
+        pluginConfig: {
+          head: true,
+          respectDNT: true,
+        },
+      },
+    },
+    {
       resolve: "gatsby-plugin-offline",
       options: {
         workboxConfig: {
