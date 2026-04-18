@@ -3,7 +3,9 @@
     "allow": [
       "Bash(grep -v \"^images$\\\\|^omori$\\\\|^asftu$\\\\|^deltarune$\\\\|^if$\\\\|^metaphor$\\\\|^nso$\\\\|^p3r$\\\\|^paper_lily$\\\\|^tcoal$\\\\|^post1$\")",
       "WebFetch(domain:vgmdb.net)",
-      "Bash(du -sh /Users/smoto2/Documents/GitHub/PianoBin.github.io/static/media/*)"
+      "Bash(du -sh /Users/smoto2/Documents/GitHub/PianoBin.github.io/static/media/*)",
+      "WebFetch(domain:webapps.stackexchange.com)",
+      "WebFetch(domain:developer.atlassian.com)"
     ]
   }
 }

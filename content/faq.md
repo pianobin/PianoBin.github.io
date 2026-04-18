@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Home"
 template: "page"
 socialImage: "./photo.png"
 slug: "/"
@@ -48,6 +48,14 @@ Below is an Airtable with sheet music links to all previous arrangements I have 
 <div class="airtable-container">
 <iframe class="airtable-embed" src="https://airtable.com/embed/appfWHDc7lMbK5Nqx/shrpVfn7ATstnMR5e?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 </div>
+
+<div class="faq-question">What are you currently working on?</div>
+
+You can check my work queue below to see what arrangements I am currently working on, what's planned next, and what has recently been completed! You may 👍 vote on items but a Trello account is required.
+
+<iframe src="https://trello.com/b/FVt2Ordc.html" frameBorder="0" width="100%" height="600"></iframe>
+
+<small>If the board above doesn't load, <a href="https://trello.com/b/FVt2Ordc/pianobin-work-queue" target="_blank" rel="noopener noreferrer">view it directly on Trello</a>.</small>
 
 <div class="faq-question">How to donate?</div>
 
