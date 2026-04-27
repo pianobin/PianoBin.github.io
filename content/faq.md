@@ -51,7 +51,7 @@ Below is an Airtable with sheet music links to all previous arrangements I have 
 
 <div class="faq-question">What are you currently working on?</div>
 
-You can check my work queue below to see what arrangements I am currently working on, what's planned next, and what has recently been completed! You may 👍 vote on items but a Trello account is required.
+You can check my work queue below to see what arrangements I am currently working on, what's planned next, and what has recently been completed!
 
 <iframe src="https://trello.com/b/FVt2Ordc.html" frameBorder="0" width="100%" height="600"></iframe>
 
