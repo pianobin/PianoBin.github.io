@@ -51,6 +51,7 @@ _This sheet music is released under permission from the original composer and is
 031 White Surf Style 6 / [Sheet Music](/media/omori/White_Surf_Style_6_PB.pdf) / [Piano Tutorial](https://youtu.be/bs2vYqnDv1c)  
 032 Stardust Diving / [Sheet Music](/media/omori/Stardust_Diving_PB.pdf) / [Piano Tutorial](https://youtu.be/umXj4efcWw0)  
 034 A Rose By Any Other Name… / [Sheet Music](/media/omori/A_Rose_By_Any_Other_Name..._PB.pdf) / [Piano Tutorial](https://youtu.be/Rq7zq3XnBNQ)  
+035 Stardust Dusting / [Sheet Music](/media/omori/Stardust_Dusting_PB.pdf) / [Piano Tutorial](https://youtu.be/GjJEeyTQ5Jk)  
 036 CHAOS ASSEMBLY / [Sheet Music](/media/omori/CHAOS_ASSEMBLY_PB.pdf) / [Piano Tutorial](https://youtu.be/6EkmnQ0lick)  
 037 The Elegance of the Mysterious and Distant / [Sheet Music](/media/omori/The_Elegance_of_the_Mysterious_and_Distant_PB.pdf) / [Piano Tutorial](https://youtu.be/sL1LQwcmBNY)  
 038 Space Boyfriend’s Tape - I Want Nothing More / [Sheet Music](/media/omori/Space_Boyfriend's_Tape_-_I_Want_Nothing_More_PB.pdf) / [Piano Tutorial](https://youtu.be/rSArEwBzx1M)  
@@ -155,4 +156,4 @@ OMORI Switch Announcement Trailer OST / [Sheet Music](/media/omori/OMORI_Switch_
 
 **_Find Pianobin on [YouTube](https://www.youtube.com/pianobin)._**
 
-_Last updated 2024-06-30_
+_Last updated 2026-05-21_

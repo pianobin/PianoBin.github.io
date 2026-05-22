@@ -20,10 +20,23 @@ Main Theme _(Konatsu and Hiyori)_ / [Sheet Music](/media/other/Main_Theme_Konats
 Lovely City _(Lovely Planet)_ / [Sheet Music](/media/other/Lovely_City_PB.pdf) / [Piano Tutorial](https://youtu.be/q1d_APmlE0U)  
 miss you / [Sheet Music](/media/other/miss_you_PB.pdf) / [Piano Tutorial](https://youtu.be/n-ln0cG9pcg)
 
+##### haruka nakamura
+
+arne / [Sheet Music](/media/other/arne_PB.pdf) / [Piano Tutorial](https://youtu.be/HeFH7MhTjZc)  
+our pray(僕らの) _(青い鳥)_ / [Sheet Music](/media/other/bokurano_PB.pdf) / [Piano Tutorial](https://youtu.be/HWqb12jn_aI)
+
+
 ##### Jamie Paige
 
 I Wish That I Could Fall / [Sheet Music](/media/other/I_Wish_That_I_Could_Fall_PB.pdf) / [Piano Tutorial](https://youtu.be/gWDxqZ8Aq6M)  
 Machine Love / [Sheet Music](/media/other/Machine_Love_PB.pdf) / [Piano Tutorial](https://youtu.be/PO0gU5QVKFk)
+
+##### MOUSE: P.I. For Hire
+
+_Music by Patryk Scelina, Caravan Palace_
+
+Good Mouse / [Sheet Music](/media/other/Good_Mouse_PB.pdf) / [Piano Tutorial](https://youtu.be/rSkTlyCS9-A)  
+Jack Pepper's Theme / [Sheet Music](/media/other/Jack_Peppers_Theme_PB.pdf) / [Piano Tutorial](https://youtu.be/UkKvY86ROdQ)
 
 ##### Mouthwashing
 
@@ -65,7 +78,7 @@ _Music by C418_
 Introduction / [Sheet Music](/media/other/Introduction_Wanderstop_PB.pdf) / [Piano Tutorial](https://youtu.be/7m2WpDmy0-M)  
 Farewell / [Sheet Music](/media/other/Farewell_Wanderstop_PB.pdf) / [Piano Tutorial](https://youtu.be/UWDIWANXiUU)
 
-##### Miscellaneous
+##### More Random Sheets (Alphabetical Order)
 
 Alter Ego — amiko _(Alter Ego)_ / [Sheet Music](/media/other/Alter_ego_PB.pdf) / [Piano Tutorial](https://youtu.be/nd0ONG-SjQk)  
 Astrogirl — Tsukumo Sana, Ujico\*/Snail's House / [Sheet Music](/media/other/Astrogirl_PB.pdf) / [Piano Tutorial](https://youtu.be/FmjNZo-GvlI)  
@@ -77,8 +90,10 @@ I'm Yours Forever — Hydelic, Noboru Mutoh _(Tetris Effect)_ / [Sheet Music](</
 Otherside — Lena Raine _(Minecraft)_ / [Sheet Music](/media/other/otherside_PB.pdf) / [Piano Tutorial](https://youtu.be/lxSEfiSmxdE)  
 Pale Rain — Toby Fox _(Pocari Sweat CM)_ / [Sheet Music](/media/other/Pale_Rain_PB.pdf) / [Piano Tutorial](https://youtu.be/JtQfsHV7g4Q)  
 Panoramic Feelings — LudoWic _(Katana Zero)_ / [Sheet Music](/media/other/Panoramic_Feelings_PB.pdf) / [Piano Tutorial](https://youtu.be/NM05kDCS03I)  
+Part Of a Whole — The Toxic Avenger, Gildaa _(Cairn)_ / [Sheet Music](/media/other/Part_Of_a_Whole_PB.pdf) / [Piano Tutorial](https://youtu.be/nDxfiv9g7Wg)  
 she likes spring, i prefer winter — slchld / [Sheet Music](/media/other/she_likes_spring,_i_prefer_winter_PB.pdf) / [Piano Tutorial](https://youtu.be/yCNDq3LaVRw)  
 song for my lost ghost friends — spellcasting / [Sheet Music](/media/other/song_for_my_lost_ghost_friends_PB.pdf) / [Piano Tutorial](https://youtu.be/8ZDplhcA_do)  
+STRANGER THAN HEAVEN — Ado, Snoop Dogg, Satoshi Fujihara, Tori Kelly _(STRANGER THAN HEAVEN)_ / [Sheet Music](/media/other/STRANGER_THAN_HEAVEN_PB.pdf) / [Piano Tutorial](https://youtu.be/ECaiXPkJLKY)  
 The Villain I Appear to be — Connor Spiotto _(Diamond Jack)_ / [Sheet Music](/media/other/The_Villain_I_Appear_to_be_PB.pdf) / [Piano Tutorial](https://youtu.be/mizB7ekLhds)  
 TIAN TIAN — Mili _(Limbus Company)_ / [Sheet Music](/media/other/TIAN_TIAN_PB.pdf) / [Piano Tutorial](https://youtu.be/__HzPnn8-sQ)  
 Vitality — Mittsies _(Helltaker)_ / [Sheet Music](/media/other/Vitality_PB.pdf) / [Piano Tutorial](https://youtu.be/pwAOsr09ZrU)
@@ -87,4 +102,4 @@ Vitality — Mittsies _(Helltaker)_ / [Sheet Music](/media/other/Vitality_PB.pdf
 
 **_Find Pianobin on [YouTube](https://www.youtube.com/pianobin)._**
 
-_Last updated 2025-11-25_
+_Last updated 2026-05-21_

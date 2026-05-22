@@ -16,20 +16,8 @@
       "path": "/omori"
     },
     {
-      "label": "NSO",
-      "path": "/nso"
-    },
-    {
-      "label": "Impostor Factory",
-      "path": "/if"
-    },
-    {
-      "label": "Paper Lily",
-      "path": "/paper_lily"
-    },
-    {
-      "label": "ASFTU",
-      "path": "/asftu"
+      "label": "Chainsaw Man: Reze",
+      "path": "/chainsaw_man_reze"
     },
     {
       "label": "TCOAL",
@@ -40,12 +28,28 @@
       "path": "/p3r"
     },
     {
+      "label": "DELTARUNE",
+      "path": "/deltarune"
+    },
+    {
+      "label": "NSO",
+      "path": "/nso"
+    },
+    {
       "label": "Metaphor: ReFantazio",
       "path": "/metaphor"
     },
     {
-      "label": "DELTARUNE",
-      "path": "/deltarune"
+      "label": "Look Back",
+      "path": "/look_back"
+    },
+    {
+      "label": "Paper Lily",
+      "path": "/paper_lily"
+    },
+    {
+      "label": "The Dangers in My Heart",
+      "path": "/dangers_in_my_heart"
     },
     {
       "label": "<> More Sheet Music <>",

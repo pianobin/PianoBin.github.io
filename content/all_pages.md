@@ -20,6 +20,7 @@ Links to all sheet music pages.
 - [Metaphor: ReFantazio](/metaphor)
 - [DELTARUNE](/deltarune)
 - [Sea of Stars](/sea_of_stars)
+- [PRAGMATA](/pragmata)
 
 ### ANIME & FILM
 
