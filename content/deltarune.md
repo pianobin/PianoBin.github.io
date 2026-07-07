@@ -12,7 +12,7 @@ socialImage: "./photo.png"
 
 Below you will find sheet music from previous Deltarune piano arrangements.
 
-**[DELTARUNE](https://store.steampowered.com/app/1671210/DELTARUNE/)** is the parallel story to the 2015 RPG Undertale developed by Toby Fox. The latest chapters of Deltarune were released on June 4, 2025. If you enjoy these, please support the original artists by purchasing the full soundtrack on [bandcamp](https://tobyfox.bandcamp.com/album/deltarune-chapters-3-4-ost)!
+**[DELTARUNE](https://store.steampowered.com/app/1671210/DELTARUNE/)** is the parallel story to the 2015 RPG Undertale developed by Toby Fox. The latest chapters of Deltarune were released on June 24, 2026. If you enjoy these, please support the original artists by purchasing the full soundtrack on [bandcamp](https://tobyfox.bandcamp.com/album/deltarune-chapters-3-4-ost)!
 
 ---
 
