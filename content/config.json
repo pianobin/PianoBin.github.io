@@ -16,6 +16,10 @@
       "path": "/omori"
     },
     {
+      "label": "DELTARUNE",
+      "path": "/deltarune"
+    },
+    {
       "label": "Chainsaw Man: Reze",
       "path": "/chainsaw_man_reze"
     },
@@ -26,10 +30,6 @@
     {
       "label": "Persona 3 Reload",
       "path": "/p3r"
-    },
-    {
-      "label": "DELTARUNE",
-      "path": "/deltarune"
     },
     {
       "label": "NSO",
