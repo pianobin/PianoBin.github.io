@@ -205,7 +205,12 @@ export default {
     "gatsby-plugin-image",
     "gatsby-plugin-catch-links",
     "gatsby-plugin-optimize-svgs",
-    "gatsby-plugin-webpack-bundle-analyser-v2",
+    {
+      resolve: 'gatsby-plugin-webpack-bundle-analyser-v2',
+      options: {
+        analyzerMode: 'disabled',
+      },
+    },
     "gatsby-plugin-preact",
     "gatsby-plugin-sass",
     {
