@@ -28,17 +28,24 @@ Below you will find sheet music from previous The Coffin of Andy and Leyley pian
 06 Dream Dance / [Sheet Music](/media/tcoal/Dream_Dance_PB.pdf) / [Piano Tutorial](https://youtu.be/0ILk6FYnAz0)  
 07 Dark Bells / [Sheet Music](/media/tcoal/Dark_Bells_PB.pdf) / [Piano Tutorial](https://youtu.be/C185Hw9cW9c)  
 08 Wandering Wizard / [Sheet Music](/media/tcoal/Wandering_Wizard_PB.pdf) / [Piano Tutorial](https://youtu.be/iN4JPZcqAhs)  
-09 Picture Book / [Sheet Music](/media/tcoal/Picture_Book_PB.pdf) / [Piano Tutorial](https://youtu.be/VoR4XwycFes)
+09 Picture Book / [Sheet Music](/media/tcoal/Picture_Book_PB.pdf) / [Piano Tutorial](https://youtu.be/VoR4XwycFes)  
+10 Dreaming Injection / [Sheet Music](/media/tcoal/Dreaming_Injection_PB.pdf) / [Piano Tutorial](https://youtu.be/ge02hm_w6M0)
 
 ##### CHAPTER 2
 
 15 03myuu Cloud Chiptune / [Duet Sheet Music](/media/tcoal/03myuu_Cloud_Chiptune_PB.pdf) / [Piano Tutorial](https://youtu.be/3hoW1Y_Xd5s)  
 16 08myuu_Halloween_Chiptune / [Sheet Music](/media/tcoal/08myuu_Halloween_Chiptune_PB.pdf) / [Piano Tutorial](https://youtu.be/sNi_Wz-vuP0)  
 17 oldfairytales / [Sheet Music](/media/tcoal/oldfairytales_PB.pdf) / [Piano Tutorial](https://youtu.be/mfNYoR9ldDI)  
+20 secretrooms / [Sheet Music](/media/tcoal/secretrooms_PB.pdf) / [Piano Tutorial](https://youtu.be/AAeOpFAfQcA)  
 21 smallmagicbook / [Sheet Music](/media/tcoal/smallmagicbook_PB.pdf) / [Piano Tutorial](https://youtu.be/iTChcJPkzRE)
+
+##### CHAPTER 3
+
+31 Spooky Spells / [Sheet Music](/media/tcoal/Spooky_Spells_PB.pdf) / [Piano Tutorial](https://youtu.be/2lFfHu-NTTQ)  
+34 Melancholy Memory / [Sheet Music](/media/tcoal/Melancholy_Memory_PB.pdf) / [Piano Tutorial](https://youtu.be/X4bxUJuaZQE)
 
 ---
 
 **_Find Pianobin on [YouTube](https://www.youtube.com/pianobin)._**
 
-_Last updated 2026-05-21_
+_Last updated 2026-07-24_

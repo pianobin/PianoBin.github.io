@@ -25,7 +25,6 @@ miss you / [Sheet Music](/media/other/miss_you_PB.pdf) / [Piano Tutorial](https:
 arne / [Sheet Music](/media/other/arne_PB.pdf) / [Piano Tutorial](https://youtu.be/HeFH7MhTjZc)  
 our pray(僕らの) _(青い鳥)_ / [Sheet Music](/media/other/bokurano_PB.pdf) / [Piano Tutorial](https://youtu.be/HWqb12jn_aI)
 
-
 ##### Jamie Paige
 
 I Wish That I Could Fall / [Sheet Music](/media/other/I_Wish_That_I_Could_Fall_PB.pdf) / [Piano Tutorial](https://youtu.be/gWDxqZ8Aq6M)  
@@ -68,6 +67,7 @@ Everything Goes On _(Star Guardian - League of Legends)_ / [Sheet Music](/media/
 
 ##### Toby Fox & Itoki Hana
 
+74 / [Sheet Music](/media/other/74_PB.pdf) / [Piano Tutorial](https://youtu.be/E22L5Ock98U)  
 Skies Forever Blue / [Sheet Music](/media/other/Skies_Forever_Blue_PB.pdf) / [Piano Tutorial](https://youtu.be/BJ_7AeKieFw)  
 The Greatest Living Show / [Sheet Music](/media/other/The_Greatest_Living_Show_PB.pdf) / [Piano Tutorial](https://youtu.be/6zRgT1MIJVY)
 
@@ -102,4 +102,4 @@ Vitality — Mittsies _(Helltaker)_ / [Sheet Music](/media/other/Vitality_PB.pdf
 
 **_Find Pianobin on [YouTube](https://www.youtube.com/pianobin)._**
 
-_Last updated 2026-05-21_
+_Last updated 2026-07-24_
