@@ -2,20 +2,12 @@ import React from "react";
 
 import { graphql } from "gatsby";
 
-import { AdSense } from "@/components/AdSense";
 import { Layout } from "@/components/Layout";
 import { Meta } from "@/components/Meta";
 import { Page } from "@/components/Page";
 import { Sidebar } from "@/components/Sidebar";
 import { useSiteMetadata } from "@/hooks";
 import { Node } from "@/types";
-
-import * as styles from "./PageTemplate.module.scss";
-
-// Replace with your AdSense ad slot IDs from your AdSense dashboard
-const AD_SLOT_TOP = "1957582132";
-const AD_SLOT_2 = "7634229463";
-const AD_SLOT_BOTTOM = "1634148508";
 
 interface Props {
   data: {
@@ -28,27 +20,11 @@ const PageTemplate: React.FC<Props> = ({ data }: Props) => {
   const { frontmatter } = data.markdownRemark;
   const { title } = frontmatter;
 
-  const parts = body.split(/<hr\s*\/?>/i);
-  const hasAds = parts.length > 1;
-
   return (
     <Layout>
       <Sidebar />
       <Page title={title}>
-        <p className={styles.adMessage}>Website ads are kept minimal and help support site costs - thank you for understanding!</p>
-        <AdSense slot={AD_SLOT_TOP} format="horizontal" />
-        {hasAds ? (
-          parts.map((part, i) => (
-            <React.Fragment key={i}>
-              <div dangerouslySetInnerHTML={{ __html: part }} />
-              {i < parts.length - 1 && <hr />}
-              {i === 2 && parts.length > 3 && <AdSense slot={AD_SLOT_2} />}
-            </React.Fragment>
-          ))
-        ) : (
-          <div dangerouslySetInnerHTML={{ __html: body }} />
-        )}
-        <AdSense slot={AD_SLOT_BOTTOM} />
+        <div dangerouslySetInnerHTML={{ __html: body }} />
       </Page>
     </Layout>
   );
