@@ -21,6 +21,7 @@ Links to all sheet music pages.
 - [DELTARUNE](/deltarune)
 - [Sea of Stars](/sea_of_stars)
 - [PRAGMATA](/pragmata)
+- [Z.A.T.O.](/zato)
 
 ### ANIME & FILM
 
