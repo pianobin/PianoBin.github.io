@@ -63,7 +63,8 @@ Jubilife Village Theme / [Sheet Music](/media/other/Jubilife_Village_Theme_PB.pd
 Mother / [Sheet Music](/media/other/Mother_PB.pdf) / [Piano Tutorial](https://youtu.be/eQmT00WYIBM)  
 Hollowheart / [Sheet Music](/media/other/Hollowheart_ft._Amy_Millan_PB.pdf) / [Piano Tutorial](https://youtu.be/tSWwC9kdX9w)  
 Easier to Love You / [Sheet Music](/media/other/Easier_to_Love_You_PB.pdf) / [Piano Tutorial](https://youtu.be/Uuh-lvtFF8Q)  
-Everything Goes On _(Star Guardian - League of Legends)_ / [Sheet Music](/media/other/Everything_Goes_On_Porter_Robinson_PB.pdf) / [Piano Tutorial](https://youtu.be/mZNgL5QM3go)
+Everything Goes On _(Star Guardian - League of Legends)_ / [Sheet Music](/media/other/Everything_Goes_On_Porter_Robinson_PB.pdf) / [Piano Tutorial](https://youtu.be/mZNgL5QM3go)  
+Look at the Sky (Short) / [Sheet Music](/media/other/Look_at_the_Sky_PB.pdf) / [Piano Tutorial](https://youtu.be/4KYOOk_w9OM)
 
 ##### Toby Fox & Itoki Hana
 
